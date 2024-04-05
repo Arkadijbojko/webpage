@@ -12,8 +12,11 @@ I am proving that for versions of Bridgeland stability conditions on the derived
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/familie_of_vertex_algebras_-_axioms.png" title="Families of vertex algebras." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/families_of_vertex_algebras_-_axioms.png" title="Families of vertex algebras." class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="caption"> I use formal families of vertex algebras to formulate wall-crossing of invariants. The picture represents a physical perspective on the origin of such families.
+</div>
+    <div class = "row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/stepsinnhancedMSCY4.png" title="Obstruction theory of the enhanced master space." class="img-fluid rounded z-depth-1" %}
     </div>
@@ -21,17 +24,17 @@ I am proving that for versions of Bridgeland stability conditions on the derived
         {% include figure.liquid loading="eager" path="assets/img/wall-crossingpicture.png" title="Sketch of the proof." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption">The proof is intricate as one first needs to construct self-dual obstruction theories for Mochizuki's enhanced master spaces represented on the left. The proof sketched in the diagram on the right requires many compatibilities between these obstruction theories which I check in my work. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JScompatibility.png" title="Well-defined invariants." class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PT0PT1_stability.png" title="Wall-crossing between PT0 and PT1 invariants." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PT0PT1stability.png" title="Wall-crossing between PT0 and PT1 invariants." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption"> On the left is represented the argument that proves that the produced invariants counting semistable torsion-free sheaves are well-defined. The second picture is one of the main applications of my work which has implications to 3-fold DT/PT correspondence. The figure represents the need to work with new families of stability conditions.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
