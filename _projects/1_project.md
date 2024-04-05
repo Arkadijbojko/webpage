@@ -16,6 +16,7 @@ I am proving that for versions of Bridgeland stability conditions on the derived
     </div>
     <div class="caption"> I use formal families of vertex algebras to formulate wall-crossing of invariants. The picture represents a physical perspective on the origin of such families.
 </div>
+</div>
     <div class = "row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/stepsinnhancedMSCY4.png" title="Obstruction theory of the enhanced master space." class="img-fluid rounded z-depth-1" %}
