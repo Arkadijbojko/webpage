@@ -36,11 +36,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Clarendon Scholarship",
+      "date": "2018-10-01",
+      "awarder": "Clarendon Fund, University of Oxford",
+      "url": "https://www.ox.ac.uk/clarendon",
+    }
+     {
+      "title": "Institute Research Scholarship",
+      "date": "2023",
+      "awarder": "Academia Sinica",
+      "url": "https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/14418"
     }
   ],
   "certificates": [
