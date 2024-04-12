@@ -2,16 +2,16 @@
   "basics": {
     "name": "Arkadij Bojko",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abojko at gate dot sinica dot edu dot tw",
+    "phone": "",
+    "url": "",
+    "summary": "I study enumerative algebraic geometry by using tools from representation theory, derived algebraic geometry, and gauge theory.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No. 1, Sec. 4, Roosevelt Road, Da-an",
+      "postalCode": "106319",
+      "city": "Taipei",
+      "countryCode": "Taiwan",
+      "region": ""
     },
     "profiles": [
       {
