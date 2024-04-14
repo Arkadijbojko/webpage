@@ -179,15 +179,17 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Enumerative algebraic geometry",
+        "Counting sheaves on CY fourfolds",
+        "Virasoro constraints",
+        "Invariants of Quot schemes",
+        "Vertex algebras",
+        "Quiver representations",
+        "Homotopical and derived algebraic geometry"
+        "Gauge theory"
       ]
     }
   ],
