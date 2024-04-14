@@ -155,15 +155,25 @@
       ]
     }
   ],
-  "languages": [
+ "languages": [
     {
-      "language": "German",
+      "language": "Russian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+     {
+      "language": "Czech",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "TOEFL 119/120",
+      "icon": ""
+    },
+     {
+      "language": "German",
+      "fluency": "ÖSD Zertifikat C2",
       "icon": ""
     }
   ],
