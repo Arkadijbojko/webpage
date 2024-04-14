@@ -21,4 +21,4 @@ nav_order: 6
  
   **Algebraic topology** at Oxford 2018 Michaelmas (Teaching assistent)
  
-  Representation theory at Oxford 2018 Michaelmas (Teaching assistent)
+  **Representation theory** at Oxford 2018 Michaelmas (Teaching assistent)
