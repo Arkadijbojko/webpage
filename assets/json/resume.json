@@ -26,31 +26,31 @@
       "name": "Institute of Mathematics, Academia Sinica",
       "position": "Institute Research Scholar",
       "url": "https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20",
-      "startDate": "2023-09-01",
-      "endDate": "2028-08-31"
+      "startDate": "23-09-01",
+      "endDate": "28-08-31"
     }
   ],
   "education": [
     {
   "institution":  "Mathematical Institute, University of Oxford",
-      "location": "Oxford, United Kingdom",
+      "location": "Oxford. UK",
       "url": "",
       "area": "Enumerative algebraic geometry",
       "studyType": "PhD",
-      "startDate": "2018-01-10",
-      "endDate": "2021-05-15",
+      "startDate": "18-01-10",
+      "endDate": "21-05-15",
       "score": "",
       "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Clarendon Scholarship",
+      "date": "2018-10-01",
+      "awarder": "Clarendon Fund, University of Oxford",
+      "url": "https://www.ox.ac.uk/clarendon",
+      "summary": ""
+    },
   ],
   "certificates": [
     {
