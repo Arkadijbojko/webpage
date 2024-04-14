@@ -32,15 +32,14 @@
   ],
  "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Mathematical Institute, University of Oxford",
+      "location": "Oxford, United Kingdom",
+      "url": "",
+      "area": "Enumerative Algebraic Geometry",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2018-01-10",
+      "endDate": "2021-05-10",
+      "score": "",
     }
   ],
   "awards": [
