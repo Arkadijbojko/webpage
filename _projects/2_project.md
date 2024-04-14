@@ -13,14 +13,13 @@ https://drive.google.com/file/d/1Ekkn5Lcu485OYkHykkR_q_ccffgaNPPS/view?usp=shari
 
 
 <div class="row">
-
       <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/quiver.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Qfr.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    </div>
+</div>
 <div class="caption">A quiver with a cycle but with relations that still allow me to study its Virasoro constraints. On the right is the procedure of forming an auxiliary quiver that is used for constructing conformal elements and studying framed representations. 
 </div>
 <div class="row">
@@ -33,7 +32,6 @@ The sketch of the idea of the proof.
 </div>
 
 <div class="row">
-
       <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/P2quiver.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -44,4 +42,3 @@ The sketch of the idea of the proof.
 <div class="caption">Here are the two quivers that are derived equivalent to $\mathbb{P}^2$ and $\mathbb{P}^1\times\mathbb{P}^1$. Proving Virasoro constraints for the quiver representations amounts to proving Virasoro constraints for sheaves. 
 </div>
 
-{% endraw %}
