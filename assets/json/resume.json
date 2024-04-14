@@ -33,10 +33,14 @@
  "education": [
     {
       "institution": "Mathematical Institute, University of Oxford",
+      "location": "Oxford",
+      "url": "",
       "area": "Enumerative Algebraic Geometry",
       "studyType": "PhD",
       "startDate": "2018-01-10",
       "endDate": "2021-05-10",
+       "score": "",
+      "courses": ["Counting sheaves for Calabi--Yau fourfolds"]
     }
   ],
   "awards": [
