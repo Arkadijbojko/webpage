@@ -33,31 +33,46 @@
  "education": [
     {
       "institution": "Mathematical Institute, University of Oxford",
-      "location": "Oxford",
+      "location": "Oxford, UK",
       "url": "",
       "area": "Enumerative Algebraic Geometry",
       "studyType": "PhD",
       "startDate": "2018-01-10",
       "endDate": "2021-05-10",
        "score": "",
-      "courses": ["Counting sheaves for Calabi--Yau fourfolds"]
+      "courses": ["Wall-crossing and orientations for invariants counting coherent sheaves on CY fourfolds"]
     }
   ],
   "awards": [
-    {
-      "title": "Clarendon Scholarship",
-      "date": "2018-10-01",
-      "awarder": "Clarendon Fund, University of Oxford",
-      "url": "https://www.ox.ac.uk/clarendon",
-      "summary": ""
-    },
      {
       "title": "Institute Research Scholarship",
       "date": "2023-09-01",
       "awarder": "Academia Sinica",
       "url": "https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/14418",
       "summary": ""
-    }
+    },
+     {
+      "title": "Clarendon Scholarship",
+      "date": "2018-10-01",
+      "awarder": "Clarendon Fund, University of Oxford",
+      "url": "https://www.ox.ac.uk/clarendon",
+      "summary": ""
+    },
+ {
+      "title": "Commendation for an exceptional PhD thesis",
+      "date": "2021-07-01",
+      "awarder": "Division of Mathematical, Physical and Life Sciences Graduate School Office",
+      "url": "https://www.mpls.ox.ac.uk/about/the-divisional-office/our-team/graduate-office",
+      "summary": ""
+    },
+  ],
+   {
+      "title": "Commendation for an exceptional PhD thesis",
+      "date": "2021-07-01",
+      "awarder": "Merton College",
+      "url": "https://www.merton.ox.ac.uk/",
+      "summary": ""
+    },
   ],
   "certificates": [
     {
