@@ -191,6 +191,15 @@
         "Homotopical and derived algebraic geometry",
         "Gauge theory"
       ]
+    },
+    {
+      "name": "Mathematical Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Conformal field theory",
+        "String theory",
+        "Quantum gravity"
+      ]
     }
   ],
   "references": [
