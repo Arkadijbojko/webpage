@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 4
-description: another without an image
-img:
+description: Wall-crossing for surface counting theories on Calabi–Yau fourfolds
+img: /assets/img/12.jpg
 importance: 3
 category: fun
 ---
