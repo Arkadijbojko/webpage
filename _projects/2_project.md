@@ -12,17 +12,17 @@ Following our success in [pdf](https://drive.google.com/file/d/1Ekkn5Lcu485OYkHy
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/quiver.png" title="Obstruction theory of the enhanced master space." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/quiver.png" title="." class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Qinfty.png" title="Sketch of the proof." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Qinfty.png" title="" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 <div class="caption">A quiver with a cycle but with relations that still allow me to study its Virasoro constraints. On the right is the procedure of forming an auxiliary quiver that is used for constructing conformal elements and studying framed representations. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sketchVirasoro.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sketchVirasoro.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,10 +31,10 @@ The sketch of the idea of the proof.
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P2quiver.png" title="Obstruction theory of the enhanced master space." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P2quiver.png" title="" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/P1P1quiver.png" title="Sketch of the proof." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/P1P1quiver.png" title="" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
 <div class="caption">Here are the two quivers that are derived equivalent to $\mathbb{P}^2$ and $\mathbb{P}^1\times\mathbb{P}^1$. Proving Virasoro constraints for the quiver representations amounts to proving Virasoro constraints for sheaves. 
