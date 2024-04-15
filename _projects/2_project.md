@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Project 2
 description: Virasoro constraints for abelian categories 
 img: assets/img/sketchVirasoro.png
 importance: 2
