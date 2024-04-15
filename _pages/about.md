@@ -3,13 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://pastwww.math.sinica.edu.tw/www/people/post-doc20_e.jsp'>Affiliations</a>. 
+
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>I believe in the essence of <a href='https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf'>Ardila's Axioms</a>.</p>
-
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
