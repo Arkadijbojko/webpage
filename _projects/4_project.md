@@ -24,14 +24,6 @@ I extend my work from [Project 1](https://arkadijbojko.github.io/mypage/projects
 <div class="caption">
   Each one of the above graphics represents an element of the fixed point locus a Hilbert scheme of curves or surfaces on a toric Calabi--Yau fourfold after projecting to the first three axes of $\CC^4$-  Going from left to right the figure depicts curves along the $z_1$, $z_2$, and $z_3$ axes, curves with added points, and surfaces curves and points. 
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
