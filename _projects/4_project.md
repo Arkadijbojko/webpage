@@ -4,7 +4,7 @@ title: project 4
 description: K-theoretic wall-crossing for Calabi–Yau fourfolds (joint with Henry Liu)
 img: /assets/img/surfacescurvespoints.png
 importance: 3
-category: fun
+category: work
 ---
 
 I extend my work from [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) and [Project 3](https://arkadijbojko.github.io/mypage/projects/3_project/) to equivariant K-theory in collaboration with Henry Liu. This will include proving the Calabi--Yau four DT/PT equivariant vertex and many K-theoretic conjectures of Bae--Kool--Park. One consequence we will obtain when working with elliptic fibrations is a new kind of K-theoretic DT/PT correspondence for Fano threefolds in terms of the symmetrized K-theoretic Euler class of the tautological $L^{[n]}$ for a line bundle $L$. 
