@@ -19,7 +19,7 @@ I am proving that for versions of Bridgeland stability conditions on the derived
         {% include figure.liquid path="assets/img/familyVAinsertions.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     </div>
-<div class="caption">I use formal families of vertex algebras in a formal variable u to formulate wall-crossing of invariants. The first picture represents a physical perspective of the origin of such families. To obtain explicit formulae, one takes a particular coefficient of the expansion in u as is portrayed in the second drawing.
+<div class="caption">I use formal families of vertex algebras in a formal variable u to formulate wall-crossing of invariants. The first picture represents a physical perspective of the origin of such families. To obtain explicit formulae, one takes an appropriate coefficient of the expansion in $$u$$ as is portrayed in the second illustration.
 </div>
 
 <div class="row">
