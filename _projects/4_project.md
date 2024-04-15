@@ -7,32 +7,22 @@ importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I extend my work from [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) and [Project 3](https://arkadijbojko.github.io/mypage/projects/3_project/) to equivariant K-theory in collaboration with Henry Liu. This will include proving the Calabi--Yau four DT/PT equivariant vertex and many K-theoretic conjectures of Bae--Kool--Park. One consequence we will obtain when working with elliptic fibrations is a new kind of K-theoretic DT/PT correspondence for Fano threefolds in terms of the symmetrized K-theoretic Euler class of the tautological $L^{[n]}$ for a line bundle $L$. 
+   
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/curves.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/curvesandpoints.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/surfacescurvespoints.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+  Each one of the above graphics represents an element of the fixed point locus a Hilbert scheme of curves or surfaces on a toric Calabi--Yau fourfold after projecting to the first three axes of $\CC^4$-  Going from left to right the figure depicts curves along the $z_1$, $z_2$, and $z_3$ axes, curves with added points, and surfaces curves and points. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,32 +39,14 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PT0PT1stability.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/familyVAinsertions.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+From the point of stability conditions, nothing changes compared to Project 3, so we still work with the family of conditions portrayed on the left. The argument needed to extract closed formulae from the wall-crossing theory will be a K-theoretic refinement of my families of vertex algebras on the right. It boils down to a fitting rigidity argument, but its representation theoretic interpretation remains to be found. 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
