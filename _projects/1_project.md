@@ -35,7 +35,7 @@ I am proving that for versions of Bridgeland stability conditions on the derived
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JScompatibility.png" title="Well-defined invariants." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PD1isPD1plus2toM.png" title="Well-defined invariants." class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PT0PT1stability.png" title="Wall-crossing between PT0 and PT1 invariants." class="img-fluid rounded z-depth-1" %}
