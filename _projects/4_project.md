@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 4
-description: Wall-crossing for surface counting theories on Calabi–Yau fourfolds
-img: /assets/img/12.jpg
+description: K-theoretic wall-crossing for Calabi–Yau fourfolds (joint with Henry Liu)
+img: /assets/img/surfacescurvespoints.png
 importance: 3
 category: fun
 ---
