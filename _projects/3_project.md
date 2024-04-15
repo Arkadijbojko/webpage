@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Project 3
 description: Wall-crossing for pair counting theories on Calabi--Yau fourfolds
 img: assets/img/surfacewallcrossing.png
 redirect: 
