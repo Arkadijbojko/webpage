@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Project 4
 description: K-theoretic wall-crossing for Calabi–Yau fourfolds (joint with Henry Liu)
 img: /assets/img/surfacescurvespoints.png
 importance: 3
