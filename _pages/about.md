@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://pastwww.math.sinica.edu.tw/www/people/post-doc20_e.jsp'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I am an Institute Research Scholar at <a href='https://pastwww.math.sinica.edu.tw/www/people/post-doc20_e.jsp'>Academia Sinica</a>. Previously, I worked in the group of Rahul Pandharipande at ETH Zurich, and I did my PhD with Dominic Joyce at Oxford. 
 
 profile:
   align: right
