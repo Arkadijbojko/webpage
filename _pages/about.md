@@ -7,7 +7,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  I believe in the essence of <a href='https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf'>Ardila's Axioms</a>.
+  more_info: >
+  <p>I believe in the essence of <a href='https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf'>Ardila's Axioms</a>.</p>
 
 
 news: false # includes a list of news items
