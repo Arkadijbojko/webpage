@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://pastwww.math.sinica.edu.tw/www/people/post-doc20_e.jsp'>Affiliations</a>. 
+subtitle: <a href='https://pastwww.math.sinica.edu.tw/www/people/post-doc20_e.jsp'>Affiliation</a>. 
 
 profile:
   align: right
