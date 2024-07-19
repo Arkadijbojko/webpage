@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-I am proving that for versions of Bridgeland stability conditions on the derived category of coherent sheaves, there are wall-crossing formulae relating the virtual fundamental classes counting semistable objects. One of the interesting outcomes is that this can be applied to Calabi–Yau dg-categories as long as assumptions are satisfied and to wall-crossing with certain nice insertions. I use this theory to prove multiple existing conjectures in the literature related to point and curve counting together with the results in 3. This is based on the work of Joyce in lower dimensions.
+I am proving that for versions of Bridgeland stability conditions on the derived category of coherent sheaves, there are wall-crossing formulae relating the virtual fundamental classes counting semistable objects. One of the interesting outcomes is that this can be applied to wall-crossing with certain nice insertions in more general Calabi–Yau dg-categories as long as some assumptions hold. I use this theory to prove multiple existing conjectures in the literature related to point and curve counting together with the results in Project 3. My work follows the ideas introduced by Joyce who connected vertex algebras and wall-crossing for enumeration invariants.
 
 <div class="row">
 
