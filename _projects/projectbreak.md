@@ -18,8 +18,11 @@ Tie Break
 Qualification round
 <video src='https://github.com/user-attachments/assets/14bc9e2c-4d41-4102-8caf-2f20abc4732e' width=180/>
 
+A friendly 1v1 competition with a local crew:
 
+Favourite round 1
 
+Favorite round 2 
 
 
 My first-ever successful qualification round:
