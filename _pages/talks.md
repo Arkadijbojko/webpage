@@ -9,7 +9,6 @@ nav_order: 7
 
 **Upcoming talks:**
 
-KIAS, July 2024.
 
 Kavli Institute for the Physics and Mathematics of the Universe,  July 2024.
 
@@ -24,7 +23,9 @@ Algebraic Geometry Workshop in Obergurgl, organized by R. Pandharipande, A. Mell
 
 **Past Talks:**
 
-Wall-crossing for Calabi-Yau fourfolds and applications, Yau Mathematical Sciences Center at Tsinghua University, June 2024. [slides](https://drive.google.com/file/d/1kSQvSChKEts0V-LjFLa6h9B-44IplAlv/view?usp=sharing)
+Calabi—Yau four dg-quivers and wall-crossing, KIAS, July 2024. [slides](https://drive.google.com/file/d/1nCfBQQ0Ru-vsuJr4rGFwDYhrekED_vK5/view?usp=sharing)
+
+Wall-crossing for Calabi-Yau fourfolds and applications, Yau Mathematical Sciences Center at Tsinghua University, June 2024. [slides](https://drive.google.com/file/d/1kSQvSChKEts0V-LjFLa6h9B-44IplAlv/view?usp=sharing), [video](http://archive.ymsc.tsinghua.edu.cn/pacm_lecture?html=Wall_crossing_for_Calabi_Yau_fourfolds_and_applications.html)
 
 Universal Virasoro Constraints for Additive Categories, Shanghai Center for Mathematical Sciences, May 2024.
 
