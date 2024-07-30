@@ -10,7 +10,7 @@ nav_order: 7
 **Upcoming talks:**
 
 
-Kavli Institute for the Physics and Mathematics of the Universe,  July 2024.
+
 
 Heidelberg University,  August 2024.
 
@@ -22,6 +22,8 @@ Algebraic Geometry Workshop in Obergurgl, organized by R. Pandharipande, A. Mell
 
 
 **Past Talks:**
+
+Universal Virasoro constraints for additive categories, Kavli Institute for the Physics and Mathematics of the Universe,  July 2024. [slides](https://drive.google.com/file/d/1xYIFG_o6fHWLSDiQWh7Lz2bv_ymWA3TS/view?usp=sharing)
 
 Calabi—Yau four dg-quivers and wall-crossing, KIAS, July 2024. [slides](https://drive.google.com/file/d/1nCfBQQ0Ru-vsuJr4rGFwDYhrekED_vK5/view?usp=sharing)
 
