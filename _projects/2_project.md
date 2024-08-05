@@ -40,3 +40,4 @@ The sketch of the idea of the proof.
 <div class="caption">Here are the two quivers that are derived equivalent to $\mathbb{P}^2$ and $\mathbb{P}^1\times\mathbb{P}^1$ respectively. Proving Virasoro constraints for the quiver representations amounts to proving Virasoro constraints for sheaves. 
 </div>
 
+**Warning!** Some of the ideas appearing in [my work](https://arxiv.org/pdf/2310.18311) were plagarized in this [article](https://arxiv.org/abs/2403.13982). If you are worried about adequately citing my results, feel free to contact me, and I will be happy to provide further information. Thank you for helping to prevent plagiarism in academia.
