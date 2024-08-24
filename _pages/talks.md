@@ -12,9 +12,9 @@ nav_order: 7
 
 
 
-Heidelberg University,  August 2024.
 
-The University of Edinburgh, August 2024.
+
+
 
 University of Vienna, September 2024.
 
@@ -22,6 +22,10 @@ Algebraic Geometry Workshop in Obergurgl, organized by R. Pandharipande, A. Mell
 
 
 **Past Talks:**
+
+Universal Virasoro constraints for additive categories, The University of Edinburgh, August 2024. [webpage](https://www.maths.ed.ac.uk/~lhenneca/EGRET.html)
+
+Introductory lecture and a talk on Wall-crossing for Calabi-Yau fourfolds and applications, Heidelberg University,  August 2024. [slides](https://drive.google.com/file/d/1nQCKRiG1yboXqdkmQBz-EjYPiprDOIsW/view?usp=sharing)
 
 Universal Virasoro constraints for additive categories, Kavli Institute for the Physics and Mathematics of the Universe,  July 2024. [slides](https://drive.google.com/file/d/1xYIFG_o6fHWLSDiQWh7Lz2bv_ymWA3TS/view?usp=sharing)
 
