@@ -22,6 +22,7 @@ nav_order: 7
 
 
 **Past Talks:**
+
 Wall-crossing for Calabi-Yau fourfolds and applications, Algebraic Geometry Workshop in [Obergurgl](https://homepage.univie.ac.at/balazs.szendroi/?page_id=494), September 2024. [slides](https://drive.google.com/file/d/17Ath_8gl31kOGj84P9D9lVmmb5gn1CAj/view?usp=sharing)
 
 Equivariant Segre and Verlinde series for Quot-schemes, University of Vienna, September 2024.
