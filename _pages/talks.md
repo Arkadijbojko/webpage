@@ -9,7 +9,7 @@ nav_order: 7
 
 **Upcoming talks**
 
-Vertex Operators in Enumerative Geometry, TSIMF, Hainan, China
+Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024.
 
 **Past Talks:**
 
