@@ -7,19 +7,9 @@ nav: true
 nav_order: 7
 ---
 
-**Upcoming talks:**
+**Upcoming talks**
 
-
-
-
-
-
-
-
-
-
- organized by R. Pandharipande, A. Mellit, B. Szendröi, T. Hausel, and A. Szenes, 
-
+Vertex Operators in Enumerative Geometry, TSIMF, Hainan, China
 
 **Past Talks:**
 
