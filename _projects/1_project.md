@@ -8,7 +8,10 @@ category: work
 related_publications: true
 ---
 
-I am proving that for versions of Bridgeland stability conditions on the derived category of coherent sheaves, there are wall-crossing formulae relating the virtual fundamental classes counting semistable objects. One of the interesting outcomes is that this can be applied to wall-crossing with certain nice insertions in more general Calabi–Yau dg-categories as long as some assumptions hold. I use this theory to prove multiple existing conjectures in the literature related to point and curve counting together with the results in Project 3. My work follows the ideas introduced by Joyce who connected vertex algebras and wall-crossing for enumeration invariants.
+In this vast project, I have chosen to tackle the question of wall-crossing formulae for Calabi-Yau fourfolds which were originally conjecture by Gross-Joyce-Tanaka. A big part part of this project focused on making the result accessible and suitable for many applications. Another more technical part needed to address the problem of constructing appropriate obstruction theories on master spaces appearing in the argument. This second part will be addressed partially in my first paper on the topic while a completely general statement will be provided in a joint work with Kuhn and Thimm. Originally, I believed to have had a proof that the obstruction to the existence of such obstruction theories vanishes, but alas, I found an inconsistency. Working with Nick and Felix, we will work around this issue.
+
+
+ One of the interesting outcomes of my research is that one can wall-cross with some nice invariants obtained from multiplicative insertions. This refines the original formulation of Gross-Joyce-Tanaka who only dealt with full virtual fundamental classes. The geometric set up of such wall-crossing gives naturally rise to a representation theoretic structure I called _additive formal families of vertex algebras._ I will use this theory to prove multiple existing conjectures in the literature related to point and curve counting together with the results in Project 3. 
 
 <div class="row">
 
