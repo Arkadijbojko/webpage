@@ -33,7 +33,7 @@ In this vast project, I have chosen to tackle the question of wall-crossing form
         {% include figure.liquid loading="eager" path="assets/img/wall-crossingpicture.png" title="Sketch of the proof." class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-<div class="caption">The proof is intricate as one first needs to construct self-dual obstruction theories for Mochizuki's enhanced master spaces represented on the left. The proof sketched in the diagram on the right requires many compatibilities between these obstruction theories which I check in my work. 
+<div class="caption">The proof is intricate as one first needs to construct self-dual obstruction theories for Mochizuki's enhanced master spaces represented on the left. The proof sketched in the diagram on the right requires many compatibilities between these obstruction theories which in general are violated.  
 </div>
 
 <div class="row">
@@ -44,7 +44,7 @@ In this vast project, I have chosen to tackle the question of wall-crossing form
         {% include figure.liquid loading="eager" path="assets/img/PT0PT1stability.png" title="Wall-crossing between PT0 and PT1 invariants." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption"> On the left is represented the argument that proves that the produced invariants counting semistable torsion-free sheaves are well-defined. The second picture is one of the main applications of my work which has implications to 3-fold DT/PT correspondence. The figure represents the need to work with new families of stability conditions.
+<div class="caption"> On the left is represented the argument that proves that the produced invariants counting semistable torsion-free sheaves are well-defined. The second picture is one of the main applications of my work which has implications to 3-fold DT/PT correspondence. The figure represents the need to work with new families of stability conditions. In the third work in the series, I will therefore formulate the wall-crossing set up in terms of some generalizations of Bridgeland stability conditions. 
 </div>
 
 
