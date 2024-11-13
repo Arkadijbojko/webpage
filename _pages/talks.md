@@ -9,13 +9,14 @@ nav_order: 7
 
 **Upcoming talks**
 
-A series of 3 talks in the Algebraic Geometry Seminar, Academia Sinica, October/November 2024.  [talk 1](https://drive.google.com/file/d/1BvqILftaUyrrdCk1bC2NeYpZXh1YqMwq/view?usp=sharing), [talk 2](https://drive.google.com/file/d/1A2x0knj6sRvQnxYPNp1cA3VptrTvPQXN/view?usp=sharing), [talk 3](https://drive.google.com/file/d/1Ci1nkNjou-xckzOxalrztfv0X6MCRiS0/view?usp=sharing)
 
 Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024.
 
 Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025.
 
 **Past Talks:**
+
+A series of 3 talks in the Algebraic Geometry Seminar, Academia Sinica, October/November 2024.  [talk 1](https://drive.google.com/file/d/1BvqILftaUyrrdCk1bC2NeYpZXh1YqMwq/view?usp=sharing), [talk 2](https://drive.google.com/file/d/1A2x0knj6sRvQnxYPNp1cA3VptrTvPQXN/view?usp=sharing), [talk 3](https://drive.google.com/file/d/1Ci1nkNjou-xckzOxalrztfv0X6MCRiS0/view?usp=sharing)
 
 Wall-crossing for Calabi-Yau fourfolds and applications, Algebraic Geometry Workshop in [Obergurgl](https://homepage.univie.ac.at/balazs.szendroi/?page_id=494), September 2024. [slides](https://drive.google.com/file/d/17Ath_8gl31kOGj84P9D9lVmmb5gn1CAj/view?usp=sharing)
 
