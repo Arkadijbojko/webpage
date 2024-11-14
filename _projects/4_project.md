@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-I extend my work from [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) and [Project 3](https://arkadijbojko.github.io/mypage/projects/3_project/) to equivariant K-theory in collaboration with Henry Liu. This will include proving the Calabi--Yau four DT/PT equivariant vertex and many K-theoretic conjectures of Bae--Kool--Park. One consequence we will obtain when working with elliptic fibrations is a new kind of K-theoretic DT/PT correspondence for Fano threefolds in terms of the symmetrized K-theoretic Euler class of the tautological $L^{[n]}$ for a line bundle $L$. 
+I extend my work from [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) and [Project 3](https://arkadijbojko.github.io/mypage/projects/3_project/) to equivariant K-theory in collaboration with N. Kuhn, F. Thimm, and H. Liu. This will include proving the Calabi--Yau four DT/PT equivariant vertex and many K-theoretic conjectures of Bae--Kool--Park. One consequence we will obtain when working with elliptic fibrations is a new kind of K-theoretic DT/PT correspondence for Fano threefolds in terms of the symmetrized K-theoretic Euler class of the tautological $L^{[n]}$ for a line bundle $L$. 
    
 
 <div class="row">
