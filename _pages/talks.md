@@ -10,7 +10,7 @@ nav_order: 7
 **Upcoming talks**
 
 
-Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024.
+Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024. [slides](https://drive.google.com/file/d/14dIT-fSbBxp90QhDAa9-xwHc9XEltAmO/view?usp=sharing)
 
 Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025.
 
