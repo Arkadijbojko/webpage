@@ -7,12 +7,12 @@ nav: true
 nav_order: 7
 ---
 
-**Upcoming talks**
-
-Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025.
-
 
 **Past Talks:**
+
+
+Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025. [slides](https://drive.google.com/file/d/12W6_QuucWp2cWoGH0QP2ZyOCwz0SKMcz/view?usp=sharing
+)
 
 Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024. [slides](https://drive.google.com/file/d/14dIT-fSbBxp90QhDAa9-xwHc9XEltAmO/view?usp=sharing)
 
