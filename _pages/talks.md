@@ -11,10 +11,10 @@ nav_order: 7
 **Past Talks:**
 
 
-Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025. [slides](https://drive.google.com/file/d/12W6_QuucWp2cWoGH0QP2ZyOCwz0SKMcz/view?usp=sharing
+Universal Virasoro constraints for linear theories, Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025. [slides](https://drive.google.com/file/d/12W6_QuucWp2cWoGH0QP2ZyOCwz0SKMcz/view?usp=sharing
 )
 
-Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024. [slides](https://drive.google.com/file/d/14dIT-fSbBxp90QhDAa9-xwHc9XEltAmO/view?usp=sharing)
+Deformations of vertex algebras from wall-crossing, Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024. [slides](https://drive.google.com/file/d/14dIT-fSbBxp90QhDAa9-xwHc9XEltAmO/view?usp=sharing)
 
 A series of 3 talks in the Algebraic Geometry Seminar, Academia Sinica, October/November 2024.  [talk 1](https://drive.google.com/file/d/1BvqILftaUyrrdCk1bC2NeYpZXh1YqMwq/view?usp=sharing), [talk 2](https://drive.google.com/file/d/1A2x0knj6sRvQnxYPNp1cA3VptrTvPQXN/view?usp=sharing), [talk 3](https://drive.google.com/file/d/1Ci1nkNjou-xckzOxalrztfv0X6MCRiS0/view?usp=sharing)
 
