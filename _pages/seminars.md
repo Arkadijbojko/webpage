@@ -8,8 +8,8 @@ nav_order: 8
 ---
 
 
-#Enumerative Seminar <br>
-###Tuesdays at 2pm
+# Enumerative Seminar <br>
+### Tuesdays at 2pm
 
 
 [**Yingchun Zhang**](https://sites.google.com/view/yingchunzhangmathe/home), Zhejiang University <br>
