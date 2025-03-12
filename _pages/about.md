@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Hello, I am an assistant professor at <a href='https://www.simis.cn/'>SIMIS</a> and <a href='https://www.fudan.edu.cn/en/'>Fudan University</a>. I did my PhD with Dominic Joyce at the University of Oxford.
 
