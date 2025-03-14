@@ -9,6 +9,7 @@ nav_order: 8
 
 
 # Enumerative Seminar <br>
+_Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 ### Tuesdays at 2pm
 &nbsp;
 &nbsp;
