@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
-[**Yingchun Zhang**](https://sites.google.com/view/yingchunzhangmathe/home), Zhejiang University <br>
+[Yingchun Zhang](https://sites.google.com/view/yingchunzhangmathe/home), Zhejiang University <br>
 _03/26, SCMS, Fudan University_ 
 
 **Quantum cohomology/quantum K rings and cluster algebras**<br>
@@ -22,7 +22,7 @@ I will introduce a relation between the quantum cohomology ring/quantum K ring o
 <br/>
 <br/>
 
-[**Will Donovan**](https://w-donovan.github.io/), Tsinghua University <br>
+[Will Donovan](https://w-donovan.github.io/), Tsinghua University <br>
 **On Tuesday as an exception!** _2pm 04/01, SIMIS_ 
 
 **Exceptional surfaces in 3-folds and derived symmetries**<br>
