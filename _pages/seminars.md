@@ -23,3 +23,6 @@ I will introduce a relation between the quantum cohomology ring/quantum K ring o
 
 [**Will Donovan**](https://w-donovan.github.io/), Tsinghua University <br>
 _04/01, SIMIS_
+
+**Exceptional surfaces in 3-folds and derived symmetries**<br>
+Crepant resolutions of 3-fold singularities may contain elaborate configurations of exceptional surfaces. Using toric cases as a guide, I review some known contributions of these configurations to the derived autoequivalence group of the resolution, in particular from work of Seidel-Thomas, and discuss work in progress with Luyu Zheng.
