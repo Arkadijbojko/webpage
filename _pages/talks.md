@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Talks and Travel
 description: Past and upcoming talks
 nav: true
 nav_order: 7
 ---
 
+**Upcoming Talks and Travel**
+
+Academia Sinica, Taiwan:  April 2025
+
+2 talks at SIMIS: April 2025
+<br/>
+<br/>
 
 **Past Talks:**
 
