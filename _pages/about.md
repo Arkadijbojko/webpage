@@ -18,5 +18,5 @@ social: true # includes social icons at the bottom of the page
 
 My research field is _enumerative algebraic geometry_ where I have mainly focused on _sheaf-counting theories_ thus far. Through my work, I help to advance our understanding of invariants and structures of moduli spaces of sheaves. I enjoy finding new approaches to existing problems that borrow tools from representation theory and differential geometry. I dedicated most of my time to two main areas: _sheaf-counting on Calabi-Yau fourfolds_ and _Virasoro constraints for linear categories_. Here, I used vertex algebras and their formal families combined with wall-crossing to prove multiple existing conjectures. Returning to my roots, I am beginning to dabble in various topics of _mathematical physics_.
 
-I am coorganizing the [**Enumerative seminar**](https://arkadijbojko.github.io/webpage/seminars/) with [Yang Zhou](https://scms.fudan.edu.cn/info/3044/4824.htm).<br>
+I am coorganizing the [**Enumerative geometry seminar**](https://arkadijbojko.github.io/webpage/seminars/) with [Yang Zhou](https://scms.fudan.edu.cn/info/3044/4824.htm).<br>
  **You can contact me** using 'abojko(at)simis(dot)cn'. 
