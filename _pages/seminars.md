@@ -22,6 +22,7 @@ Crepant resolutions of 3-fold singularities may contain elaborate configurations
 
 <br/>
 <br/>
+
 ### Past talks <br>
 &nbsp;
 &nbsp;
