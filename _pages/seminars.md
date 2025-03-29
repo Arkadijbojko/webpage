@@ -23,8 +23,7 @@ Crepant resolutions of 3-fold singularities may contain elaborate configurations
 <br/>
 <br/>
 
-### Past talks <br>
-&nbsp;
+## Past talks <br>
 &nbsp;
 
 [Yingchun Zhang](https://sites.google.com/view/yingchunzhangmathe/home), Zhejiang University <br>
