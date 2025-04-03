@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
-[Yehao Zhou](https://sites.google.com/view/yehaozhou/home), SIMIS & Fudan University <be>
+[Yehao Zhou](https://sites.google.com/view/yehaozhou/home), SIMIS & Fudan University <br>
 _04/16, SCMS room 102, Fudan University_ 
 
 **Stable envelope for critical loci**<br>
