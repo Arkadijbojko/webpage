@@ -28,7 +28,7 @@ In this talk, we will introduce a generalization of Maulik-Okounkov’s stable e
 [Will Donovan](https://w-donovan.github.io/), Tsinghua University <br>
 **On Monday as an exception!** _2pm 03/31, SIMIS room 1310_  
 
-**Exceptional surfaces in 3-folds and derived symmetries**<br>
+**Exceptional surfaces in 3-folds and derived symmetries**<br> [Video](https://youtu.be/4q1dbNOgHS4?si=emQiKrCm3KZ4WBcA)
 Crepant resolutions of 3-fold singularities may contain elaborate configurations of exceptional surfaces. Using toric cases as a guide, I review some known contributions of these configurations to the derived autoequivalence group of the resolution, particularly from the work of Seidel-Thomas, and discuss work in progress with Luyu Zheng.
 
 <br/>
