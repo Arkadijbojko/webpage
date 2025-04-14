@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /talks/
-title: Visitors, Talks, and Travel
-description: Invited visitors, past and upcoming talks
+title: Visitors and Travel
+description: Invited visitors, upcoming travel, and past talks
 nav: true
 nav_order: 7
 ---
