@@ -1,25 +1,45 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks and Travel
-description: Past and upcoming talks
+title: Visitors, Talks, and Travel
+description: Invited visitors, past and upcoming talks
 nav: true
 nav_order: 7
 ---
 
+**Visitors**
+
+[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
+
+[Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
+
+[Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
+
+[Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
+<br/>
+<br/>
+
 **Upcoming Talks and Travel**
 
-Academia Sinica, Taiwan:  April 2025
+Two talks at SIMIS, April 2025.
 
-2 talks at SIMIS: April 2025
+Talk at Jiao Tong University, May 2025.
+
+Participating in the International conference on representation theory, Beijing, June 2025.
+
+Visiting University of Oxford, July 2025.
+
+Visiting Utrecht University, July 2025.
+
+Visiting the University of Oslo, August.
 <br/>
 <br/>
 
 **Past Talks:**
 
+Equivariant Segre and Verlinde series for Quot schemes, Academia Sinica, April 2025.
 
-Universal Virasoro constraints for linear theories, Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025. [slides](https://drive.google.com/file/d/12W6_QuucWp2cWoGH0QP2ZyOCwz0SKMcz/view?usp=sharing
-)
+Universal Virasoro constraints for linear theories, Algebra and Quantum Geometry of BPS Quivers, Diablerets, January 2025. [slides](https://drive.google.com/file/d/12W6_QuucWp2cWoGH0QP2ZyOCwz0SKMcz/view?usp=sharing)
 
 Deformations of vertex algebras from wall-crossing, Vertex Operators in Enumerative Geometry, Tsinghua Sanya International Mathematics Forum, Hainan, December 2024. [slides](https://drive.google.com/file/d/14dIT-fSbBxp90QhDAa9-xwHc9XEltAmO/view?usp=sharing)
 
