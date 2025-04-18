@@ -16,7 +16,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 
 
 [Yinbang Lin](https://yinbang-lin.github.io/), Tongji University <br>
-_04/23, SIMIS room 1210_ **Exception: Moved to 3:30 pm!**
+ **Special time: Moved to 3:30 pm!**, _04/23, SIMIS room 1210_
 
 **Riemann-Roch and Brill-Noether problems over surfaces**<br>
 Motivated by the Verlinde/Segre correspondence over surfaces, we try to bound the dimension of the global sections of semistable sheaves in terms of the rank and the first Chern class. This improves the explicit Le Potier-Simpson bound when the first Chern class is small compared to the rank. In some cases, we also obtain the asymptotic bound as the second Chern class goes to infinity, using Bridgeland stability conditions. Understanding these bounds is the foundation of the Brill-Noether problem. Over K3 surfaces of Picard number one, we show examples of Brill-Noether loci which are non￾empty and irreducible of expected dimensions. This is work in progress jointly with Thomas Goller and Zhixian Zhu.
