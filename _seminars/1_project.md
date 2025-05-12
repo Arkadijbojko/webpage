@@ -7,8 +7,6 @@ importance: 1
 category: work
 related_publications: false
 ---
-
-# Enumerative geometry seminar <br>
 _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 ### Wednesdays at 2pm
 &nbsp;
