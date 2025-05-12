@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminars new
-permalink: /seminars new/
+permalink: /seminarsnew/
 description: Seminars coorganized by me. 
 nav: true
 nav_order: 9
