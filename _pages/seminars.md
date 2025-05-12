@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars new
+title: Seminars
 permalink: /seminars/
 description: Seminars coorganized by me. 
 nav: true
