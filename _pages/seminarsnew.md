@@ -4,7 +4,7 @@ title: Seminars new
 permalink: /seminars new/
 description: Seminars coorganized by me. 
 nav: true
-nav_order: 8
+nav_order: 9
 display_categories: [work, fun]
 horizontal: false
 ---
