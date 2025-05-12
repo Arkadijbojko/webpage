@@ -8,8 +8,6 @@ category: work
 related_publications: false
 ---
 
-# Representation theory seminar <br>
-_Organized by the representation theory group at SIMIS_<br>
 ### Mondays at 4pm
 &nbsp;
 &nbsp;
