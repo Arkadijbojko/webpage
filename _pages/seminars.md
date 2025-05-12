@@ -23,7 +23,7 @@ horizontal: false
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-2">
-    {% for project in sorted_seminars %}
+    {% for project in sorted_ %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
