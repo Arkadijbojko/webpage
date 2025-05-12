@@ -2,7 +2,7 @@
 layout: page
 title: Enumerative seminar
 description: Everything interesting related to enumerative algebraic geometry
-img: assets/img/crazy_diagrams.png
+img: assets/img/calabi-yau-manifold.png
 importance: 1
 category: work
 related_publications: false
