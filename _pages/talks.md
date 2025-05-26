@@ -22,7 +22,7 @@ nav_order: 7
 
 Visiting BIMSA, June 2025.
 
-Participating in the International conference on representation theory, Beijing, June 2025.
+Attending the International conference on representation theory, Beijing, June 2025.
 
 Visiting Utrecht University, July 2025.
 
