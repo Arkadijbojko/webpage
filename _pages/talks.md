@@ -7,9 +7,8 @@ nav: true
 nav_order: 7
 ---
 
-**Visitors**
+**Future Visitors**
 
-[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
 
 [Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
 
@@ -21,21 +20,27 @@ nav_order: 7
 
 **Upcoming Talks and Travel**
 
-Two talks at SIMIS, April 2025.
-
-Talk at Jiao Tong University, May 2025.
+Visiting BIMSA, June 2025.
 
 Participating in the International conference on representation theory, Beijing, June 2025.
 
-Visiting University of Oxford, July 2025.
-
 Visiting Utrecht University, July 2025.
 
-Visiting the University of Oslo, August.
+Visiting University of Oxford, July 2025.
+
+Visiting the University of Oslo, August 2025.
+
+Visiting ETH Zurich, August 2025.
 <br/>
 <br/>
 
 **Past Talks:**
+
+
+
+Universal Virasoro constraints for line theories, Jiao Tong University, May 2025.
+
+Universal Virasoro constraints for line theories, Part I and II, SIMIS, April 2025.
 
 Equivariant Segre and Verlinde series for Quot schemes, Academia Sinica, April 2025.
 
