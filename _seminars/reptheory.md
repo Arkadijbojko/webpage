@@ -20,7 +20,7 @@ _06/17, SIMIS room 1210_
 
 &nbsp;
 &nbsp;
-## Past
+## Past talks
 
 [Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br>
  _05/19, SIMIS room 1210_
