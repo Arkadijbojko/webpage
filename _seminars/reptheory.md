@@ -13,7 +13,7 @@ related_publications: false
 &nbsp;
 
 [Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
-_06/17, SIMIS room 1210_
+_06/16, SIMIS room 1210_
 
 **Infinite dimensional algebra and instanton moduli spaces**<br>
  Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation theoretic interpretation of the blowup formula.. In the joint work with QIngyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and gave an answer to Nakajima’s question.
