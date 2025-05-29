@@ -13,10 +13,9 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), KIAS <br>
-_06/11, SIMIS room TBA_ 
+**Thursday** _06/12, SIMIS room TBA_ 
 
-**Symplectic pushforwards and DT theory**<br>
-I will introduce how to pushforward shifted symplectic fibrations along base changes. This yields an étale local structure theorem for shifted symplectic derived Artin stacks via Hamiltonian reduction. One application is the construction of cohomological Hall algebras for Calabi-Yau 3-folds, which is joint work with Tasuki Kinjo and Pavel Safronov. Another application is deformation invariance of Donaldson-Thomas invariants for Calabi-Yau 4-folds. 
+**TBA**
 
 <br/>
 <br/>
