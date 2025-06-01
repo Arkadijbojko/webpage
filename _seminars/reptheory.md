@@ -16,14 +16,14 @@ related_publications: false
 **At 2pm!**_06/09, SIMIS room 1210_
 
 **Highest-weight vectors and three-point functions in coset decomposition**<br>
- We revisit the classical Goddard Kent Olive coset construction. We find the formulas for the highest weight vectors in coset decomposition and calculate their norms. We also derive formulas for matrix elements of natural vertex operators between these vectors. This leads to relations on conformal blocks. Due to the AGT relation, these relations are equivalent to blowup relations on Nekrasov partition functions with the presence of the surface defect. These relations can be used to prove Kyiv formulas for the Painlevé tau-functions (following Nekrasov's method).
+We revisit the classical Goddard Kent Olive coset construction. We find the formulas for the highest weight vectors in coset decomposition and calculate their norms. We also derive formulas for matrix elements of natural vertex operators between these vectors. This leads to relations on conformal blocks. Due to the AGT relation, these relations are equivalent to blowup relations on Nekrasov partition functions with the presence of the surface defect. These relations can be used to prove Kyiv formulas for the Painlevé tau-functions (following Nekrasov's method).
 
 
 [Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
 _06/16, SIMIS room 1210_
 
 **Infinite dimensional algebra and instanton moduli spaces**<br>
- Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation theoretic interpretation of the blowup formula.. In the joint work with QIngyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and gave an answer to Nakajima’s question.
+Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation theoretic interpretation of the blowup formula.. In the joint work with QIngyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and gave an answer to Nakajima’s question.
 
 &nbsp;
 &nbsp;
