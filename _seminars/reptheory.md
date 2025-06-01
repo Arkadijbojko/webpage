@@ -18,6 +18,9 @@ related_publications: false
 **Highest-weight vectors and three-point functions in coset decomposition**<br>
 We revisit the classical Goddard Kent Olive coset construction. We find the formulas for the highest weight vectors in coset decomposition and calculate their norms. We also derive formulas for matrix elements of natural vertex operators between these vectors. This leads to relations on conformal blocks. Due to the AGT relation, these relations are equivalent to blowup relations on Nekrasov partition functions with the presence of the surface defect. These relations can be used to prove Kyiv formulas for the Painlevé tau-functions (following Nekrasov's method).
 
+&nbsp;
+&nbsp;
+
 
 [Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
 _06/16, SIMIS room 1210_
