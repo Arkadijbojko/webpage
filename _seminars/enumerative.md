@@ -15,7 +15,12 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), KIAS <br>
 **Thursday** _06/12, SIMIS room TBA_ 
 
-**TBA**
+**Lagrangian classes, Donaldson-Thomas theory, and gauged linear sigma models**
+In this talk, I will explain the construction of Lagrangian classes for perverse sheaves in cohomological Donaldson-Thomas theory, whose existence was conjectured by Joyce. The two key ingredients are a relative version of the DT perverse sheaves and a hyperbolic version of the dimensional reduction theorem. As a special case, we recover Borisov-Joyce/Oh-Thomas virtual classes in DT4 theory.<br>
+
+As applications, I will explain how to construct the following structures from the Lagrangian classes: (1) cohomological Hall algebras for 3-Calabi-Yau categories, (2) relative Donaldson-Thomas invariants for Fano 4-folds with anti-canonical divisors, (3) refined surface counting invariants for Calabi-Yau 4-folds, (4) cohomological field theories for gauged linear sigma models. <br>
+
+This is joint work in progress with Adeel Khan, Tasuki Kinjo, and Pavel Safronov.
 
 <br/>
 <br/>
