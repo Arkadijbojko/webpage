@@ -30,6 +30,16 @@ Given a projective smooth surface X  and its blowup surface Y, Yoshioka calcula
 
 &nbsp;
 &nbsp;
+
+
+[Lucien Hennecart](https://hennlu.github.io/), CNRS<br>
+_06/23, SIMIS room 1210_
+
+**TBA**
+
+&nbsp;
+&nbsp;
+
 ## Past talks
 
 [Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br>
