@@ -26,7 +26,7 @@ Attending the International conference on representation theory, Beijing, June 2
 
 Visiting Utrecht University, July 2025.
 
-Visiting University of Oxford, July 2025.
+Visiting the University of Oxford, July 2025.
 
 Visiting the University of Oslo, August 2025.
 
@@ -36,11 +36,11 @@ Visiting ETH Zurich, August 2025.
 
 **Past Talks:**
 
+Universal Virasoro constraints for linear theories, BIMSA, June 2025. [slides](https://drive.google.com/file/d/1XIhVNYT_JjhAV1lbpGnAjEVcROTKl0Y_/view?usp=sharing)
 
+Universal Virasoro constraints for linear theories, Jiao Tong University, May 2025.
 
-Universal Virasoro constraints for line theories, Jiao Tong University, May 2025.
-
-Universal Virasoro constraints for line theories, Part I and II, SIMIS, April 2025.
+Universal Virasoro constraints for linear theories, Part I and II, SIMIS, April 2025.
 
 Equivariant Segre and Verlinde series for Quot schemes, Academia Sinica, April 2025.
 
