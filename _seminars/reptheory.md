@@ -26,7 +26,7 @@ We revisit the classical Goddard Kent Olive coset construction. We find the form
 _06/16, SIMIS room 1210_
 
 **Infinite dimensional algebra and instanton moduli spaces**<br>
-Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation theoretic interpretation of the blowup formula.. In the joint work with QIngyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and gave an answer to Nakajima’s question.
+Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation-theoretic interpretation of the blowup formula. In the joint work with Qingyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and answered Nakajima’s question.
 
 &nbsp;
 &nbsp;
