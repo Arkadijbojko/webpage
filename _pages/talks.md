@@ -9,18 +9,19 @@ nav_order: 7
 
 **Future Visitors**
 
-
 [Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
 
 [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
 
 [Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
+
+[Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
+
+[Luca Cassia](https://findanexpert.unimelb.edu.au/profile/1006977-luca-cassia), September/October 2025.
 <br/>
 <br/>
 
 **Upcoming Talks and Travel**
-
-Visiting BIMSA, June 2025.
 
 Attending the International conference on representation theory, Beijing, June 2025.
 
