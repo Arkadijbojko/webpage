@@ -27,6 +27,8 @@ Attending the International conference on representation theory, Beijing, June 2
 
 Visiting Utrecht University, July 2025.
 
+Visiting the University of Birmingham, July 2025.
+
 Visiting the University of Oxford, July 2025.
 
 Visiting the University of Oslo, August 2025.
