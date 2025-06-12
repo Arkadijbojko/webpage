@@ -12,6 +12,10 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
+
+## Past talks <br>
+&nbsp;
+
 [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), KIAS <br>
 **Thursday** _06/12, SIMIS room TBA_ 
 
@@ -24,9 +28,6 @@ This is joint work in progress with Adeel Khan, Tasuki Kinjo, and Pavel Safronov
 
 <br/>
 <br/>
-
-## Past talks <br>
-&nbsp;
 
 
 [Yehao Zhou](https://sites.google.com/view/yehaozhou/home), SIMIS & Fudan University <br>
