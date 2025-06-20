@@ -15,16 +15,6 @@ related_publications: false
 
 
 
-[Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
-_06/16, SIMIS room 1210_
-
-**Infinite dimensional algebra and instanton moduli spaces**<br>
-Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation-theoretic interpretation of the blowup formula. In the joint work with Qingyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and answered Nakajima’s question.
-
-&nbsp;
-&nbsp;
-
-
 [Lucien Hennecart](https://hennlu.github.io/), CNRS<br>
 _06/23, SIMIS room 1210_
 
@@ -35,6 +25,15 @@ In this talk, I will describe the construction of induction and restriction morp
 &nbsp;
 
 ## Past talks
+
+[Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
+_06/16, SIMIS room 1210_
+
+**Infinite dimensional algebra and instanton moduli spaces**<br>
+Given a projective smooth surface X  and its blowup surface Y, Yoshioka calculated the blowup formula relating Betti numbers of the moduli space of rank two sheaves on X with those on Y. Nakajima asked the question of a representation-theoretic interpretation of the blowup formula. In the joint work with Qingyuan Jiang and Yu Zhao, we studied the representation of an extended Clifford algebra on the cohomology of the moduli space of stable sheaves on Y and answered Nakajima’s question.
+
+&nbsp;
+&nbsp;
 
 [Mikhail Bershtein](https://www.math.sissa.it/users/mikhail-bershtein), SISSA Trieste<br>
 **At 2pm!** _06/09, SIMIS room 1210_
