@@ -7,19 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-**Future Visitors**
-
-[Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
-
-[Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
-
-[Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
-
-[Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
-
-[Luca Cassia](https://findanexpert.unimelb.edu.au/profile/1006977-luca-cassia), September/October 2025.
-<br/>
-<br/>
 
 **Upcoming Talks and Travel**
 
@@ -36,6 +23,24 @@ Visiting the University of Oslo, August 2025.
 Visiting ETH Zurich, August 2025.
 <br/>
 <br/>
+
+**Future Visitors**
+[Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
+
+[Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
+
+[Luca Cassia](https://findanexpert.unimelb.edu.au/profile/1006977-luca-cassia), September/October 2025.
+
+<br/>
+<br/>
+**Past visitors**
+[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
+
+[Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
+
+[Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
+
+
 
 **Past Talks:**
 
