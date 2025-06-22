@@ -25,6 +25,7 @@ Visiting ETH Zurich, August 2025.
 <br/>
 
 **Future Visitors**
+
 [Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
 
 [Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
@@ -34,6 +35,7 @@ Visiting ETH Zurich, August 2025.
 <br/>
 <br/>
 **Past visitors**
+
 [Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
 
 [Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
