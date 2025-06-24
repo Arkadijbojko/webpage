@@ -7,7 +7,7 @@ redirect:
 importance: 3
 category: work
 ---
-Apart from proving the natural DT/PT correspondences on projective Calabi--Yau fourfolds, I also address multiple conjectures postulated by Bae–Kool–Park about invariants counting surface in this setting. Applying the latter results to elliptic fibrations will prove the DT/PT correspondence for Fano threefolds by dimensional reduction. The main tool I rely on is the wall-crossing which I prove in Project 2.
+Project 1 will provide tools for proving natural DT/PT correspondences on projective Calabi--Yau fourfolds. More interestingly still, I will address multiple conjectures postulated by Bae–Kool–Park about CY4 surface counting invariants. For elliptic fibrations, these results are closely related to DT/PT correspondencences on the base by the work of BKP.
 
 
 
