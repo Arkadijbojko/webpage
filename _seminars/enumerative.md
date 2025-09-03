@@ -16,8 +16,10 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 _09/10, SIMIS room 610_ 
 
 **Reflection vectors in quantum cohomology**<br>
-Smooth projective varieties with semi-simple quantum cohomology is a very interesting class of varieties from the point of view of mirror symmetry and integrable systems. The goal in the first part of my talk is twofold. I would like to explain an approach to integrability in Gromov-Witten theory based on vertex algebras and more generally Borcherd’s products. This is based on an old joint work with Bojko Bakalov. As a byproduct of our construction, we will see that there is a certain system of vectors, called reflection vectors, that plays a key role in our project. The second goal of my talk is to explain the relation between reflection vectors and the refined Dubrovin conjecture. This part is based on a recent joint work with John Alexander Cruz Morales.<br>
+Smooth projective varieties with semi-simple quantum cohomology is a very interesting class of varieties from the point of view of mirror symmetry and integrable systems. The goal in the first part of my talk is twofold. I would like to explain an approach to integrability in Gromov-Witten theory based on vertex algebras and more generally Borcherd’s products. This is based on an old joint work with Bojko Bakalov. As a byproduct of our construction, we will see that there is a certain system of vectors, called reflection vectors, that plays a key role in our project. The second goal of my talk is to explain the relation between reflection vectors and the refined Dubrovin conjecture. This part is based on a recent joint work with John Alexander Cruz Morales.
 
+<br/>
+<br/>
 
 ## Past talks <br>
 &nbsp;
