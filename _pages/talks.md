@@ -20,7 +20,13 @@ Visiting the University of Oxford, July 2025.
 
 Visiting the University of Oslo, August 2025.
 
-Visiting ETH Zurich, August 2025.
+Algebra and Geometry in Quantum Field Theory and String Theory, Shanghai, August 2025.
+
+Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. 
+
+Workshop on Mirror Symmetry and Related Topics, Kyoto, 2025.
+
+Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
 <br/>
 
