@@ -34,21 +34,29 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 **Future Visitors**
 
-[Lucien Hennecart](https://www.maths.ed.ac.uk/~lhenneca/), June 2025.
-
 [Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
 
-[Luca Cassia](https://findanexpert.unimelb.edu.au/profile/1006977-luca-cassia), September/October 2025.
+[Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081)
+
+[Adeel Khan](https://www.preschema.com/)
+
+[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20)
+
+[Interdisciplinary workshop with Sinica](TBA)
+
+[Yuuji Tanaka](https://sites.google.com/view/yuuji-tanaka/)
 
 <br/>
 <br/>
 **Past visitors**
 
-[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
+[Lucien Hennecart](https://www.lamfa.u-picardie.fr/annuaire/lhenn)
+
+[Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
 
 [Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
 
-[Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), June 2025.
+[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
 
 <br/>
 <br/>
