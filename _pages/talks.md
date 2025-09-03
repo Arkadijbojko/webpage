@@ -48,6 +48,7 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 <br/>
 <br/>
+
 **Past visitors**
 
 [Lucien Hennecart](https://www.lamfa.u-picardie.fr/annuaire/lhenn)
