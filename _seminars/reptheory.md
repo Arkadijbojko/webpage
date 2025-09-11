@@ -18,13 +18,15 @@ related_publications: false
 [Lucien Hennecart](https://hennlu.github.io/), CNRS<br>
 _06/23, SIMIS room 1210_
 
+
+
+## Past talks
+
 **Mackey formula for representations of reductive groups**<br>
 In this talk, I will describe the construction of induction and restriction morphisms on the critical cohomology associated with a function on a representation of a reductive group. The induction morphisms play a key role in obtaining a cohomological integrality decomposition, which is a decomposition into finite-dimensional pieces with enumerative significance. The building blocks of this decomposition are given by the BPS cohomology. After discussing this decomposition and its geometric meaning, I will present a cohomological version of the Mackey formula that relates the induction and restriction operations. I will also present examples of the formalism in low dimensions. This can be seen as a generalization to more general stacks of the cohomological Hall algebra multiplication and its localized restriction.
 
 &nbsp;
 &nbsp;
-
-## Past talks
 
 [Weiping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), HKUST<br>
 _06/16, SIMIS room 1210_
