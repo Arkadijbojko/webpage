@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seminars
-permalink: /seminars/
-description: Seminars coorganized by me. 
+title: Organizing
+permalink: /organizing/
+description: Seminars, workshops, and conferences coorganized by me. 
 nav: true
 nav_order: 9
 display_categories: [work, fun]
