@@ -21,15 +21,13 @@ related_publications: false
 
 
 **You-Cheng Chou**<br>
-Title: Permutation equivariant quantum K-theory of a point<br>
+Title: Permutation equivariant quantum K-theory of a point
 <br/>
 
 Abstract: In the first part, I will provide motivation for developing a K-theoretic version of Witten-Kontsevich theory. Then I will review known results about computations of (permutation equivariant) quantum K-theory of a point.
-
 <br/>
 
 In the second part, I will explain a new approach to these computations. The approach involves a recursive pushforward technique applied to the universal cotangent line bundle and pluri-Hodge bundle. This technique is combinatorially simpler for not using the Kawasaki-Hirzebruch-Riemann-Roch theorem. As a result, we obtain a closed formula on genus 1. This is a joint work with Y.-P. Lee.
-
 <br/>
 <br/>
 
@@ -47,6 +45,13 @@ Abstract: The theory of Mixed-Spin-P (MSP) fields was introduced by Chang-Li-Li-
 <br/>
 
 In this talk, we first introduce a common generalization of both works, by introducing new stability conditions in the mathematical GLSM. Then we talk about some recent process on its applications. On the one hand, it gives a generalization of MSP to more target spaces. On the other hand, it also defines other interesting counting theories.
+<br/>
+<br/>
+
+**Arkadij Bojko**<br>
+Title:TBA
+<br/>
+Abstract:TBA
 <br/>
 <br/>
 
@@ -96,7 +101,6 @@ Abstract: I will review the giant graviton expansion, an approach that reorganiz
 Title: TBA
 <br/>
 Abstract: TBA
-
 <br/>
 <br/>
 
