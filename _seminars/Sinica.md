@@ -36,6 +36,7 @@ In the second part, I will explain a new approach to these computations. The app
 **YP Lee**<br>
 Title: Analytic continuation and wall-crossing in Gromov-Witten theory<br>
 <br/>
+
 Abstract: The wall-crossing in the "Kahler moduli" produces various changes of the target, including flops, flips and blowups. As was advocated almost two decades ago, these should be formulated in terms of analytic continuations of generating functions. This is based on joint work with Hui-Wen Lin and Chin-Lung Wang (National Taiwan University).
 <br/>
 <br/>
@@ -43,6 +44,7 @@ Abstract: The wall-crossing in the "Kahler moduli" produces various changes of t
 **Yang Zhou**<br>
 Title: Mixed-Spin-P fields and GLSM<br>
 <br/>
+
 Abstract: The theory of Mixed-Spin-P (MSP) fields was introduced by Chang-Li-Li-Liu for the quintic threefold, aiming at studying its higher-genus Gromov-Witten invariants. Chang-Guo-Li has successfully applied it to prove conjectures including the BCOV Feynman rule, Yamaguchi-Yau's polynomiality conjecture and the Holomorphic Anomaly Equation. Meanwhile, Fan-Jarvis-Ruan introduced a mathematical theory of Gauged Linear Sigma Model (GLSM), associating a counting theory to a GIT quotient with a super-potential, under suitable assumptions.
 <br/>
 
@@ -53,6 +55,7 @@ In this talk, we first introduce a common generalization of both works, by intro
 **Arkadij Bojko**<br>
 Title:TBA
 <br/>
+
 Abstract:TBA
 <br/>
 <br/>
@@ -60,6 +63,7 @@ Abstract:TBA
 **Adeel Khan**<br>
 Title: Virtual orbifold Grothendieck–Riemann–Roch
 <br/>
+
 Abstract: For schemes, Chow homology and K-theory of coherent sheaves provide two homology theories which are closely linked by the Grothendieck-Riemann-Roch theorem.  For stacks, the naive generalization of this result is false.  Nevertheless, work of Vistoli, Edidin-Graham, Toën, and others shows that for a Deligne-Mumford stack X the discrepancy can be rectified by replacing the Chow groups of X by those of its inertia stack IX.  In this talk, I will introduce a new conceptual perspective on this result which in particular clarifies the mysterious appearance of the inertia stack.  This perspective leads to a clean and general proof of the result, as well as a virtual generalization of Kawasaki's orbifold Riemann-Roch formula.  This is based on forthcoming joint work with Charanya Ravi.
 <br/>
 <br/>
@@ -83,6 +87,7 @@ Abstract: Macdonald polynomials can be introduced as eigenstates of the Macdonal
 **You-Hung Hsu**<br>
 Title: 0-affine quantum groups as K-theoretic Hall algebras.
 <br/>
+
 Abstract: Hall algebras play a central role in realizing quantum groups, beginning with Ringel’s theorem and continuing through cohomological and K-theoretic Hall algebras. In this talk, I will discuss the case of Arkhipov–Mazin’s 0-affine quantum group. 
 <br/>
 
@@ -102,6 +107,7 @@ Abstract: I will review the giant graviton expansion, an approach that reorganiz
 **Mykola Dedushenko**<br>
 Title: TBA
 <br/>
+
 Abstract: TBA
 <br/>
 <br/>
@@ -115,9 +121,9 @@ Abstract: After a brief introduction to condensed mathematics in the sense of Cl
 <br/>
 
 **Zhang Yingchun**<br>
-
 Title: quantum cohomology and cluster algebra.
 <br/>
+
 Abstract: In this talk, I will present our recent progress in the relation between the cluster algebra and the quantum cohomology ring. For a given quiver with potential function, there is an associated cluster algebra. At the same time, one can consider the associated varieties which is defined as the critical locus of the potential function and its "quantum cohomology ring". We claim that the quantum cohomolog ring naturally admits a cluster algbera structure, and this holds for general quivers with potential functions in some sense.
 
 
