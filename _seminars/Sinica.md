@@ -69,10 +69,10 @@ Abstract: For schemes, Chow homology and K-theory of coherent sheaves provide tw
 <br/>
 
 **Emile Bouaziz**<br>
-Title: Elliptic invariants of associative algebras.
+Title: localisation for BZ actions on stacks.
 <br/>
 
-Abstract: Emboldened by the organizer's assurances regarding unpolished work, I will report on some 2/3-baked results regarding the construction of elliptic invariants of associative algebras acted on by an algebraic group G. The invariants are valued in sheaves on a q-twisted loop group, and so produce sheaves on the stack of bundles on a q-torus in the case of G the multiplicative group. The construction is inspired by my joint work with Adeel Khan, with domain of applicability expanded in one direction and contracted in another. I will present some very basic computations, with a hope that the audience might help me better understand their meaning.
+Abstract: We explain a localisation theorem for the Tate category of quasi-coherent sheaves on a stack with an action of the homotopical circle. Most of the talk will be a leisurely introduction to the geometry of group stack actions on stacks, with many simple examples.
 <br/>
 <br/>
 
