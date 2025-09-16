@@ -8,12 +8,12 @@ category: work
 related_publications: false
 ---
 
-### Mondays at 4pm
+### Tuesday at 4:15 pm
 &nbsp;
 &nbsp;
 
  [Ivan Sechin](https://www.bimsa.cn/detail/ivansechin.html), BIMSA<br>
- _09/22, SIMIS room 1210_
+ _09/23, SIMIS room 1010_
 
 **Spectral duality for Gaudin systems associated with reflection equation**<br>
 Two classical integrable systems are called spectrally dual if they are defined on the same phase
