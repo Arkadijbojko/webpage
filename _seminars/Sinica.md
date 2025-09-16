@@ -55,10 +55,10 @@ In this talk, we first introduce a common generalization of both works, by intro
 <br/>
 
 **Arkadij Bojko**<br>
-Title:TBA
+Title: Nekrasov's conjecture and its generalizations via CY4 wall-crossing
 <br/>
 
-Abstract:TBA
+Abstract: Bekrasov conjectured a closed formula for a series of invariants on the Hilbert schemes of C^4. Using wall-crossing for CY4 quivers, I aim to give a new self-contained proof of this conjecture. This method naturally includes more general cases, such as quotients of C^4 by finite groups. 
 <br/>
 <br/>
 
