@@ -12,15 +12,25 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+ [Ivan Sechin](https://www.bimsa.cn/detail/ivansechin.html), BIMSA<br>
+ _09/22, SIMIS room 1210_
 
+**Spectral duality for Gaudin systems associated with reflection equation**<br>
+Two classical integrable systems are called spectrally dual if they are defined on the same phase
+space (or if there exists a Poisson map between their phase spaces), and the spectral curves of
+these two systems (given by the equation Γ(z,w) = 0) are related via the change of coordinates z
+and w. I will give an elementary proof of the spectral duality of two classical Gaudin models: the
+first one is associated with the orthogonal Lie algebra, while the second one is constructed from
+the reflection equation for the general linear Lie algebra. Based on the joint work with Andrii Liashyk and Mikhail Vasilev.
+
+&nbsp;
+&nbsp;
+
+## Past talks
 
 
 [Lucien Hennecart](https://hennlu.github.io/), CNRS<br>
 _06/23, SIMIS room 1210_
-
-
-
-## Past talks
 
 **Mackey formula for representations of reductive groups**<br>
 In this talk, I will describe the construction of induction and restriction morphisms on the critical cohomology associated with a function on a representation of a reductive group. The induction morphisms play a key role in obtaining a cohomological integrality decomposition, which is a decomposition into finite-dimensional pieces with enumerative significance. The building blocks of this decomposition are given by the BPS cohomology. After discussing this decomposition and its geometric meaning, I will present a cohomological version of the Mackey formula that relates the induction and restriction operations. I will also present examples of the formalism in low dimensions. This can be seen as a generalization to more general stacks of the cohomological Hall algebra multiplication and its localized restriction.
