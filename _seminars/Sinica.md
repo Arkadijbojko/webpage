@@ -15,7 +15,7 @@ The workshop will take place in R610 at SIMIS from September 16 to September 19.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/timetable.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/timetable3.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br/>
