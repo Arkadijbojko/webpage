@@ -20,7 +20,7 @@ The workshop will take place in R610 at SIMIS from September 16 to September 19.
 </div>
 
 
-The dinner will be at 7pm in a [restaurant near the Yu Garden](#小程序://美团丨外卖团购特价美食酒店电影/avrYFYyAezBqiby).  
+The dinner will be at 7pm at the restauran called 御延公馆·上海菜. The precise address is 黄浦区南京东路299号宏伊国际广场6层 S-601单元.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
