@@ -24,7 +24,7 @@ The dinner will be at 7pm at the restauran called 御延公馆·上海菜. The p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/map.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/map.jpg %}
     </div>
 </div>
 
