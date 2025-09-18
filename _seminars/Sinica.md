@@ -21,6 +21,8 @@ The workshop will take place in R610 at SIMIS from September 16 to September 19.
 <br/>
 <br/>
 
+The dinner will be at 7pm in a [restaurant near the Yu Garden](#小程序://美团丨外卖团购特价美食酒店电影/avrYFYyAezBqiby).  
+
 ## Abstracts
 
 
