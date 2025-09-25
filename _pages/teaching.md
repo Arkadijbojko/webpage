@@ -8,7 +8,7 @@ nav_order: 6
 ---
 ## Courses
 
-</br>
+<br/>
  **Symmetric functions and applications** at SIMIS 2025 Autumn-term (Lecturer) 
 
   **Derived algebraic geometry** at ETH Zürich 2023 Spring-term (Lecturer) [recordings of the lectures](https://video.ethz.ch/lectures/d-math/2023/spring/401-4146-22L.html)
@@ -26,11 +26,11 @@ nav_order: 6
   **Algebraic topology** at Oxford 2018 Michaelmas (Teaching assistent)
  
   **Representation theory** at Oxford 2018 Michaelmas (Teaching assistent)
-  </br>
-  </br>
+ <br/>
+ <br/>
 
 ## Students 
-</br>
+<br/>
 
 [Jiahui Huang](https://j346huan.github.io/)
 
