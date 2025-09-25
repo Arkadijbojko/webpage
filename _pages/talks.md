@@ -24,9 +24,13 @@ Visiting the University of Oslo, August 2025.
 
 Algebra and Geometry in Quantum Field Theory and String Theory, Shanghai, August 2025.
 
+Organizing the SIMIS-Sinica interdisciplinary workshop, Shanghai, September 2025.
+
 Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. 
 
-Workshop on Mirror Symmetry and Related Topics, Kyoto, 2025.
+Korea-Taiwan Enumerative Geometry Meeting 2025, Tainan, November 2025.
+
+Workshop on Mirror Symmetry and Related Topics, Kyoto, December 2025.
 
 Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
