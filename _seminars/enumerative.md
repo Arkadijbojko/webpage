@@ -12,17 +12,35 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
+[Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081), University of Vienna <br>
+_10/01, SIMIS room TBA_ 
+
+**Crossed instantons in algebraic geometry**<br>
+In a series of papers, Nekrasov introduces moduli spaces of
+“crossed instantons,” certain quiver representations modeling instantons
+on unions of 2-planes in 4-space. He uses the geometry of these spaces
+to extract information about bundles on quiver varieties and construct 
+deformations of characters of quantum affine algebras.
+<br/>
+
+I will explain a project in progress with Martijn Kool and Woonam Lim in
+which we study Nekrasov’s moduli spaces from the perspective of
+algebraic geometry. I’ll explain how invariants of moduli spaces of
+crossed instantons can be defined using a construction from
+sheaf-counting theories for 4-folds. I will also state a speculative
+description of these spaces as moduli spaces of framed sheaves on a
+projective 4-fold.
+
+## Past talks <br>
+&nbsp;
+
 [Todor Milanov](https://member.ipmu.jp/todor.milanov/), IPMU <br>
 _09/10, SIMIS room 1310_ 
 
 **Reflection vectors in quantum cohomology**<br>
 Smooth projective varieties with semi-simple quantum cohomology is a very interesting class of varieties from the point of view of mirror symmetry and integrable systems. The goal in the first part of my talk is twofold. I would like to explain an approach to integrability in Gromov-Witten theory based on vertex algebras and more generally Borcherd’s products. This is based on an old joint work with Bojko Bakalov. As a byproduct of our construction, we will see that there is a certain system of vectors, called reflection vectors, that plays a key role in our project. The second goal of my talk is to explain the relation between reflection vectors and the refined Dubrovin conjecture. This part is based on a recent joint work with John Alexander Cruz Morales.
-
 <br/>
 <br/>
-
-## Past talks <br>
-&nbsp;
 
 [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/), KIAS <br>
 **Thursday** _06/12, SIMIS room TBA_ 
