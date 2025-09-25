@@ -17,7 +17,7 @@ _10/01, SIMIS room TBA_
 
 **Crossed instantons in algebraic geometry**<br>
 In a series of papers, Nekrasov introduces moduli spaces of
-“crossed instantons,” certain quiver representations modeling instantons
+“crossed instantons,” certain quiver representations modelling instantons
 on unions of 2-planes in 4-space. He uses the geometry of these spaces
 to extract information about bundles on quiver varieties and construct 
 deformations of characters of quantum affine algebras.
