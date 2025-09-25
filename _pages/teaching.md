@@ -32,6 +32,6 @@ nav_order: 6
 ## Former Students 
 <br/>
 
-[Jiahui Huang](https://j346huan.github.io/)
+[Jiahui Huang](https://j346huan.github.io/) - Master's 2022 - 2023
 
-[Yifang Zhao](https://uk.linkedin.com/in/yifan-zhao-5533a11b9/en)
+[Yifang Zhao](https://uk.linkedin.com/in/yifan-zhao-5533a11b9/en) -  Master's 2021 - 2022
