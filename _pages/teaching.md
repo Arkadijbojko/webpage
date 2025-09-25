@@ -29,7 +29,7 @@ nav_order: 6
  <br/>
  <br/>
 
-## Students 
+## Former Students 
 <br/>
 
 [Jiahui Huang](https://j346huan.github.io/)
