@@ -13,7 +13,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081), University of Vienna <br>
-_10/01, SIMIS room TBA_ 
+_10/01, SIMIS room 1210_ 
 
 **Crossed instantons in algebraic geometry**<br>
 In a series of papers, Nekrasov introduces moduli spaces of
