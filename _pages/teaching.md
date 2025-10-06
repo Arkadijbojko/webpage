@@ -8,7 +8,8 @@ nav_order: 6
 ---
 ## Courses and reading groups
 <br/>
-  **Wall-crossing for Calabi-Yau fourfolds** on [Zoom](https://www.uu.nl/staff/TManopulo/Extra3) (helping to organize + giving talks), the main organizer is [Tom Manopulo](https://www.uu.nl/staff/TManopulo).
+
+  **Wall-crossing for Calabi-Yau fourfolds** on [Zoom](https://www.uu.nl/staff/TManopulo/Extra3) (helping to organize + giving talks), the main organizer is [Tom Manopulo](https://www.uu.nl/staff/TManopulo)
 
   **Symmetric functions and applications** at SIMIS 2025 Autumn-term (Lecturer) 
 
