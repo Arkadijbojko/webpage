@@ -21,15 +21,9 @@ The workshop will take place in R610 at SIMIS from September 16 to September 19.
 
 
 The dinner will be at 7pm at the restauran called 御延公馆·上海菜. The precise address is 黄浦区南京东路299号宏伊国际广场6层 S-601单元.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-       {% include figure.liquid loading="eager" path="assets/img/map.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <br/>
 <br/>
+
 ## Abstracts
 
 
