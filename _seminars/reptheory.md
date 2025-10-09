@@ -26,7 +26,7 @@ We will discuss some recent developments, possible applications and remaining ob
 &nbsp;
 
 [Jian-Rong Li](https://sites.google.com/view/jianrong-li/home?authuser=0), University of Vienna <br>
-**Thursday 2pm**_10/23, SIMIS room TBA_
+**Thursday 2pm!**_10/23, SIMIS room TBA_
 
 **Boundary q-characters of finite-dimensional representations of quantum affine symmetric pairs** <br>
 Frenkel and Reshetikhin introduced q-characters for finite-dimensional
