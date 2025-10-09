@@ -12,7 +12,46 @@ related_publications: false
 &nbsp;
 &nbsp;
 
- [Ivan Sechin](https://www.bimsa.cn/detail/ivansechin.html), BIMSA<br>
+[Bart Vlaar](https://bimsa.net/people/bvlaar/), BIMSA <br>
+_10/14, SIMIS room 1010_
+
+**Towards q-characters for quantum symmetric pairs**<br>
+Q-characters appeared in work by E. Frenkel and N. Reshetikhin in 1999 as a tool to study the category of finite-dimensional modules of quantum affine algebras $U_q(\hat{\mathfrak{g}})$. One way to define them is to take the partial trace of the universal R-matrix R (braided structure on the category $\mathcal{O}_q$).
+
+Quantum symmetric pairs have been studied since the 1990s. They consist of a quantized universal enveloping algebra and a suitable coideal subalgebra. More recently it has become clear that each of them is equipped with a universal K-matrix, which defines a braided structure on a particular module category over the monoidal category $\mathcal{O}_q$, compatible with the braiding defined by R. With it one can play similar games as one can with R. 
+
+We will discuss some recent developments, possible applications and remaining obstacles. Based on joint work with Andrea Appel (University of Parma).
+&nbsp;
+&nbsp;
+
+[Jian-Rong Li](https://sites.google.com/view/jianrong-li/home?authuser=0), University of Vienna <br>
+**Thursday 2pm**_10/23, SIMIS room TBA_
+
+**Boundary q-characters of finite-dimensional representations of quantum affine symmetric pairs** <br>
+Frenkel and Reshetikhin introduced q-characters for finite-dimensional
+representations of quantum affine algebras, providing a fundamental
+tool in their representation theory. Boundary q-characters for finite
+dimensional representations of quantum affine symmetric pairs of split
+types were introduced and developed by Tomasz Przezdziecki and myself.
+In this talk, I will present a new joint work Tomasz Przezdziecki on
+evaluation modules for split quantum affine symmetric pairs. By
+computing the action of generators in Lu and Wang’s Drinfeld-type
+presentation on Gelfand–Tsetlin bases, we determine the spectrum of a
+large commutative subalgebra arising from this presentation. This leads
+to an explicit formula for boundary analogues of q-characters, which we
+interpret combinatorially in terms of semistandard Young tableaux. Our
+results show that boundary q-characters share familiar features with
+ordinary q-characters—such as a version of the highest weight
+property—while also exhibiting new phenomena, including an additional
+symmetry.
+
+
+&nbsp;
+&nbsp;
+
+## Past talks
+
+[Ivan Sechin](https://www.bimsa.cn/detail/ivansechin.html), BIMSA<br>
  _09/23, SIMIS room 1010_
 
 **Spectral duality for Gaudin systems associated with reflection equation**<br>
@@ -25,8 +64,6 @@ the reflection equation for the general linear Lie algebra. Based on the joint w
 
 &nbsp;
 &nbsp;
-
-## Past talks
 
 
 [Lucien Hennecart](https://hennlu.github.io/), CNRS<br>
