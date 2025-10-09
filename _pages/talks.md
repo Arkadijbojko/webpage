@@ -10,24 +10,6 @@ nav_order: 7
 
 **Upcoming Talks and Travel**
 
-Attending the International conference on representation theory, Beijing, June 2025.
-
-Visiting Academia Sinica, July 2025.
-
-Visiting Utrecht University, July 2025.
-
-Visiting the University of Birmingham, July 2025.
-
-Visiting the University of Oxford, July 2025.
-
-Visiting the University of Oslo, August 2025.
-
-Algebra and Geometry in Quantum Field Theory and String Theory, Shanghai, August 2025.
-
-Organizing the SIMIS-Sinica interdisciplinary workshop, Shanghai, September 2025.
-
-Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. 
-
 Korea-Taiwan Enumerative Geometry Meeting 2025, Tainan, November 2025.
 
 Workshop on Mirror Symmetry and Related Topics, Kyoto, December 2025.
@@ -38,15 +20,7 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 **Future Visitors**
 
-[Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
-
-[Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081)
-
-[Adeel Khan](https://www.preschema.com/)
-
-[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20)
-
-[Interdisciplinary workshop with Sinica](TBA)
+[Michel van Garrel](https://vangarrel.com/)
 
 [Yuuji Tanaka](https://sites.google.com/view/yuuji-tanaka/)
 
@@ -54,6 +28,16 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
 
 **Past visitors**
+
+Calabi-Yau four wall-crossing, Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. [slides](https://drive.google.com/file/d/1kWbvva2dCHABeA0CGstenNyTmIcEKdHh/view?usp=sharing)
+
+[Interdisciplinary workshop with Sinica](https://arkadijbojko.github.io/webpage/seminars/Sinica/)
+
+[Adeel Khan](https://www.preschema.com/)
+
+[Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081)
+
+[Todor Milanov](https://member.ipmu.jp/todor.milanov/), September 2025.
 
 [Lucien Hennecart](https://www.lamfa.u-picardie.fr/annuaire/lhenn)
 
@@ -67,6 +51,12 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
 
 **Past Talks:**
+
+Nekrasov’s conjecture and its generalizations via CY4 wall-crossing, [SIMIS-Sinica Interdisciplinary Workshop](https://arkadijbojko.github.io/webpage/seminars/Sinica/), Shanghai, September 2025.
+
+Deformations of vertex algebras from wall-crossing, Algebra and Geometry in Quantum Field Theory and String Theory, Shanghai, August 2025. [slides](https://drive.google.com/file/d/1OpzeLNSGb-LSTodck6FJuQrbu_CrzePH/view?usp=sharing)
+
+Universal Virasoro constraints for linear categories, University of Oslo, August 2025. [slides](https://drive.google.com/file/d/1NVtdNL1s_yKPDPjZNgjx1qkbwCZFz8Pi/view?usp=sharing)
 
 Universal Virasoro constraints for linear theories, BIMSA, June 2025. [slides](https://drive.google.com/file/d/1XIhVNYT_JjhAV1lbpGnAjEVcROTKl0Y_/view?usp=sharing)
 
