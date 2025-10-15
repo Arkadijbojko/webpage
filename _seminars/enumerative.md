@@ -12,6 +12,9 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
+
+## Past talks <br>
+&nbsp;
 [Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081), University of Vienna <br>
 _10/01, SIMIS room 1210_ 
 
@@ -31,8 +34,9 @@ sheaf-counting theories for 4-folds. I will also state a speculative
 description of these spaces as moduli spaces of framed sheaves on a
 projective 4-fold.
 
-## Past talks <br>
-&nbsp;
+<br/>
+<br/>
+
 
 [Todor Milanov](https://member.ipmu.jp/todor.milanov/), IPMU <br>
 _09/10, SIMIS room 1310_ 
