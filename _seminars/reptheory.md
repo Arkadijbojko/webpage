@@ -12,18 +12,6 @@ related_publications: false
 &nbsp;
 &nbsp;
 
-[Bart Vlaar](https://bimsa.net/people/bvlaar/), BIMSA <br>
-_10/14, SIMIS room 1010_
-
-**Towards q-characters for quantum symmetric pairs**<br>
-Q-characters appeared in work by E. Frenkel and N. Reshetikhin in 1999 as a tool to study the category of finite-dimensional modules of quantum affine algebras $U_q(\hat{\mathfrak{g}})$. One way to define them is to take the partial trace of the universal R-matrix R (braided structure on the category $\mathcal{O}_q$).
-
-Quantum symmetric pairs have been studied since the 1990s. They consist of a quantized universal enveloping algebra and a suitable coideal subalgebra. More recently it has become clear that each of them is equipped with a universal K-matrix, which defines a braided structure on a particular module category over the monoidal category $\mathcal{O}_q$, compatible with the braiding defined by R. With it one can play similar games as one can with R. 
-
-We will discuss some recent developments, possible applications and remaining obstacles. Based on joint work with Andrea Appel (University of Parma).
-
-&nbsp;
-&nbsp;
 
 [Jian-Rong Li](https://sites.google.com/view/jianrong-li/home?authuser=0), University of Vienna <br>
 **Thursday 2pm!**_10/23, SIMIS room TBA_
@@ -51,6 +39,21 @@ symmetry.
 &nbsp;
 
 ## Past talks
+
+&nbsp;
+
+[Bart Vlaar](https://bimsa.net/people/bvlaar/), BIMSA <br>
+_10/14, SIMIS room 1010_
+
+**Towards q-characters for quantum symmetric pairs**<br>
+Q-characters appeared in work by E. Frenkel and N. Reshetikhin in 1999 as a tool to study the category of finite-dimensional modules of quantum affine algebras $U_q(\hat{\mathfrak{g}})$. One way to define them is to take the partial trace of the universal R-matrix R (braided structure on the category $\mathcal{O}_q$).
+
+Quantum symmetric pairs have been studied since the 1990s. They consist of a quantized universal enveloping algebra and a suitable coideal subalgebra. More recently it has become clear that each of them is equipped with a universal K-matrix, which defines a braided structure on a particular module category over the monoidal category $\mathcal{O}_q$, compatible with the braiding defined by R. With it one can play similar games as one can with R. 
+
+We will discuss some recent developments, possible applications and remaining obstacles. Based on joint work with Andrea Appel (University of Parma).
+
+&nbsp;
+&nbsp;
 
 [Ivan Sechin](https://www.bimsa.cn/detail/ivansechin.html), BIMSA<br>
  _09/23, SIMIS room 1010_
