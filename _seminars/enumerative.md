@@ -13,7 +13,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Michel van Garrel](https://vangarrel.com/), University of Birmingham <br>
-**Friday** _10/24, SIMIS room TBA_ 
+**Friday** _10/24, SIMIS room 1610_ 
 
 **Intrinsic mirrors to log K3 surfaces and modular forms**<br>
 Intrinsic Mirror Symmetry (Gross, Siebert) associates to a log Calabi-Yau variety (Y,D) a geometric generating function with support the tropicalisation of (Y,D), and with invariants the corresponding punctured Gromov-Witten invariants. This construction defines a ring and a mirror family. The enumerative mirror conjecture then states that various period integrals on the mirror family compute various Gromov-Witten invariants of (Y,D), not necessarily punctured. I will describe some log K3 surfaces, where this is realized, and where one obtains some new relations for Gromov-Witten invariants, including via modular forms. Joint work with Siebert and Ruddat.
