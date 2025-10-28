@@ -12,6 +12,15 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+[Dmitry Solovyev](https://scholar.google.com/citations?user=nk4BNZIAAAAJ&hl=ru), YMSC, Tsinghua <br>
+_11/04, SIMIS room TBA_
+
+**Limit shapes of probability measures in representation theory of U_q(sl_2) at roots of unity** <br>
+Limit shape phenomenon emerges in systems with random behavior. It manifests a formation of the most probable state, where all other macroscopically different states are exponentially improbable. In this talk, we explore such phenomena in the Grothendieck ring of the category of tilting modules for the quantum group U_q(sl_2) with divided powers, where q is an even root of unity. Considering large tensor powers of the defining representation, we describe the most probable trajectory in the main Weyl chamber with respect to the character probability measure and analyze fluctuations around this limit shape. This talk is based on arXiv:2404.03933, a joint work with A. Lachowska, O. Postnova and N. Reshetikhin.
+
+## Past talks
+
+&nbsp;
 
 [Jian-Rong Li](https://sites.google.com/view/jianrong-li/home?authuser=0), University of Vienna <br>
 **Thursday 2pm!** _10/23, SIMIS room 1010_
@@ -36,10 +45,6 @@ symmetry.
 
 
 &nbsp;
-&nbsp;
-
-## Past talks
-
 &nbsp;
 
 [Bart Vlaar](https://bimsa.net/people/bvlaar/), BIMSA <br>
