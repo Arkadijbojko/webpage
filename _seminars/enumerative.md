@@ -12,6 +12,11 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
+
+
+## Past talks <br>
+&nbsp;
+
 [Michel van Garrel](https://vangarrel.com/), University of Birmingham <br>
 **Friday** _10/24, SIMIS room 1610_ 
 
@@ -21,8 +26,6 @@ Intrinsic Mirror Symmetry (Gross, Siebert) associates to a log Calabi-Yau variet
 <br/>
 <br/>
 
-## Past talks <br>
-&nbsp;
 [Noah Arbesfeld](https://ufind.univie.ac.at/en/person.html?id=1009081), University of Vienna <br>
 _10/01, SIMIS room 1210_ 
 
