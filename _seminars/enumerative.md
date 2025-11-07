@@ -13,7 +13,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Yuuji Tannaka](https://sites.google.com/view/yuuji-tanaka/), BIMSA <br>
- _11/12, SIMIS room TBA_ 
+ _11/12, SIMIS room 1310_ 
 
 **Construction of Spin(7)-instantons**<br>
 After a brief introduction to Gauge theory in higher dimensions, as proposed by Donaldson and Thomas in the late '90s, we will introduce the notion of Spin(7)-instantons on Riemannian 8-manifolds with holonomy contained in Spin(7); and illustrate the constructions of them on Joyce's examples of compact Spin(7)-manifolds. This talk is partly based on joint work with Mateo Galdeano, Daniel Platt, and Luya Wang.
