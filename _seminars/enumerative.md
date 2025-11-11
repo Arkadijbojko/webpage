@@ -13,12 +13,23 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Yuuji Tannaka](https://sites.google.com/view/yuuji-tanaka/), BIMSA <br>
- _11/12, SIMIS room 1310_ 
+ _11/12, SIMIS room 610_ 
 
 **Construction of Spin(7)-instantons**<br>
 After a brief introduction to Gauge theory in higher dimensions, as proposed by Donaldson and Thomas in the late '90s, we will introduce the notion of Spin(7)-instantons on Riemannian 8-manifolds with holonomy contained in Spin(7); and illustrate the constructions of them on Joyce's examples of compact Spin(7)-manifolds. This talk is partly based on joint work with Mateo Galdeano, Daniel Platt, and Luya Wang.
 
 
+<br/>
+<br/>
+
+[Leonardo Santilli](https://www.simis.cn/leonardo-santilli/), SIMIS <br>
+ _11/19, SIMIS room TBA_ 
+
+**Framed BPS invariants from M-theory with M5-brane defects**<br>
+I will introduce a new class of enumerative invariants and give a gauge theory computational framework to obtain them. I will study M-theory on a local Calabi-Yau threefold X decorated with M5-branes on non-compact divisors. I will show two derivations of the corresponding partition functions, which, conjecturally, provide the generating functions of virtual counts of framed torsion sheaves on X. <br>
+The first derivation is valid only for Calabi-Yau threefolds without compact divisors, but yields a closed-form expression. <br>
+The second derivation is valid in general and stems from a 5d gauge theory computation of the partition function, leading to a new class of BPS counting invariants.<br>
+Based on work in progress with Mauricio Romo.
 <br/>
 <br/>
 
