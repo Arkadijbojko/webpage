@@ -10,19 +10,18 @@ nav_order: 7
 
 **Upcoming Talks and Travel**
 
-Korea-Taiwan Enumerative Geometry Meeting 2025, Tainan, November 2025.
-
 Workshop on Mirror Symmetry and Related Topics, Kyoto, December 2025.
 
 Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
+
 <br/>
 <br/>
 
 **Future Visitors**
 
-[Michel van Garrel](https://vangarrel.com/)
-
 [Yuuji Tanaka](https://sites.google.com/view/yuuji-tanaka/)
+
+[Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
 
 <br/>
 <br/>
