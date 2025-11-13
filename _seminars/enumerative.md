@@ -12,16 +12,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
-[Yuuji Tannaka](https://sites.google.com/view/yuuji-tanaka/), BIMSA <br>
- _11/12, SIMIS room 610_ 
-
-**Construction of Spin(7)-instantons**<br>
-After a brief introduction to Gauge theory in higher dimensions, as proposed by Donaldson and Thomas in the late '90s, we will introduce the notion of Spin(7)-instantons on Riemannian 8-manifolds with holonomy contained in Spin(7); and illustrate the constructions of them on Joyce's examples of compact Spin(7)-manifolds. This talk is partly based on joint work with Mateo Galdeano, Daniel Platt, and Luya Wang.
-
-
-<br/>
-<br/>
-
 [Leonardo Santilli](https://www.simis.cn/leonardo-santilli/), SIMIS <br>
  _11/19, SIMIS room TBA_ 
 
@@ -35,6 +25,16 @@ Based on work in progress with Mauricio Romo.
 
 ## Past talks <br>
 &nbsp;
+
+[Yuuji Tannaka](https://sites.google.com/view/yuuji-tanaka/), BIMSA <br>
+ _11/12, SIMIS room 610_ 
+
+**Construction of Spin(7)-instantons**<br>
+After a brief introduction to Gauge theory in higher dimensions, as proposed by Donaldson and Thomas in the late '90s, we will introduce the notion of Spin(7)-instantons on Riemannian 8-manifolds with holonomy contained in Spin(7); and illustrate the constructions of them on Joyce's examples of compact Spin(7)-manifolds. This talk is partly based on joint work with Mateo Galdeano, Daniel Platt, and Luya Wang.
+
+
+<br/>
+<br/>
 
 [Michel van Garrel](https://vangarrel.com/), University of Birmingham <br>
 **Friday** _10/24, SIMIS room 1610_ 
