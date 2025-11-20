@@ -13,7 +13,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 
 [Leonardo Santilli](https://www.simis.cn/leonardo-santilli/), SIMIS <br>
- _11/19, SCMS room 102_
+ _11/19, SCMS room 102_ 
 
 **Framed BPS invariants from M-theory with M5-brane defects**<br>
 I will introduce a new class of enumerative invariants and give a gauge theory computational framework to obtain them. I will study M-theory on a local Calabi-Yau threefold X decorated with M5-branes on non-compact divisors. I will show two derivations of the corresponding partition functions, which, conjecturally, provide the generating functions of virtual counts of framed torsion sheaves on X. <br>
