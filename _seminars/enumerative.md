@@ -12,18 +12,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_<br>
 &nbsp;
 &nbsp;
 
-[Satoshi Nawata](https://sites.google.com/site/snawata/home?authuser=0), Fudan University <br>
- _11/19, SIMIS room 1310_ 
-
-**DT/PT Correspondence from Combinatorics**<br>
-In this talk, I will present explicit methods for computing the generating functions of equivariant Donaldson–Thomas (DT) and Pandharipande–Thomas (PT) invariants on C^3. By using the combinatorial structure of 3d Young diagrams, I will explain quiver descriptions of the corresponding moduli spaces, and how their generating functions can be computed via Jeffrey–Kirwan residues using localization on these moduli spaces. By varying the contour cycles, it is expected to naturally recover the DT/PT correspondence.  While the approach provides strong computational evidence, it currently lacks mathematical rigor, and it is desirable to develop a precise mathematical formulation and proof. This talk is a continuation of my previous presentation.
-<br/>
-<br/>
-
-
-## Past talks <br>
-&nbsp;
-
 [Leonardo Santilli](https://www.simis.cn/leonardo-santilli/), SIMIS <br>
  _11/19, SCMS room 102_ 
 
@@ -35,6 +23,17 @@ Based on work in progress with Mauricio Romo.
 <br/>
 <br/>
 
+[Satoshi Nawata](https://sites.google.com/site/snawata/home?authuser=0), Fudan University <br>
+ _11/19, SIMIS room TBA_ 
+
+**DT/PT Correspondence from Combinatorics**<br>
+In this talk, I will present explicit methods for computing the generating functions of equivariant Donaldson–Thomas (DT) and Pandharipande–Thomas (PT) invariants on C^3. By using the combinatorial structure of 3d Young diagrams, I will explain quiver descriptions of the corresponding moduli spaces, and how their generating functions can be computed via Jeffrey–Kirwan residues using localization on these moduli spaces. By varying the contour cycles, it is expected to naturally recover the DT/PT correspondence.  While the approach provides strong computational evidence, it currently lacks mathematical rigor, and it is desirable to develop a precise mathematical formulation and proof. This talk is a continuation of my previous presentation.
+<br/>
+<br/>
+
+
+## Past talks <br>
+&nbsp;
 
 [Yuuji Tannaka](https://sites.google.com/view/yuuji-tanaka/), BIMSA <br>
  _11/12, SIMIS room 610_ 
