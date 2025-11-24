@@ -12,20 +12,6 @@ related_publications: false
 &nbsp;
 &nbsp;
 
-[Dmitry Solovyev](https://scholar.google.com/citations?user=nk4BNZIAAAAJ&hl=ru), YMSC, Tsinghua <br>
-_11/04, SIMIS room 1010_
-
-**Limit shapes of probability measures in representation theory of U_q(sl_2) at roots of unity** <br>
-Limit shape phenomenon emerges in systems with random behavior. It manifests a formation of the most probable state, where all other macroscopically different states are exponentially improbable. In this talk, we explore such phenomena in the Grothendieck ring of the category of tilting modules for the quantum group U_q(sl_2) with divided powers, where q is an even root of unity. Considering large tensor powers of the defining representation, we describe the most probable trajectory in the main Weyl chamber with respect to the character probability measure and analyze fluctuations around this limit shape. This talk is based on arXiv:2404.03933, a joint work with A. Lachowska, O. Postnova and N. Reshetikhin.
-
-&nbsp;
-&nbsp;
-
-
-## Past talks
-
-&nbsp;
-
 [Ethan Fursman](https://ms.unimelb.edu.au/research/mathematical-physics/people), University of Melbourne <br>
 _12/02, SIMIS room 1010_
 
@@ -34,6 +20,21 @@ Vertex Operator Algebras (VOAs) provide a framework for rigorously studying conf
 &nbsp;
 
 This talk will start with a brief introduction to VOAs and W-algebras. Following this, I will illustrate how their module categories may be constructed, and the exotic representations that can appear. Next, I will summarise recent work in collaboration with Justine Fasquel and David Ridout where we explicitly describe how QHR and IQHR relate certain ‘relaxed modules’, and their spectral flow twists. If time permits, I will discuss independent results where I have proven how QHR acts on various other classes of modules, including important reducible but indecomposable modules.
+&nbsp;
+&nbsp;
+
+
+## Past talks
+
+&nbsp;
+
+
+[Dmitry Solovyev](https://scholar.google.com/citations?user=nk4BNZIAAAAJ&hl=ru), YMSC, Tsinghua <br>
+_11/04, SIMIS room 1010_
+
+**Limit shapes of probability measures in representation theory of U_q(sl_2) at roots of unity** <br>
+Limit shape phenomenon emerges in systems with random behavior. It manifests a formation of the most probable state, where all other macroscopically different states are exponentially improbable. In this talk, we explore such phenomena in the Grothendieck ring of the category of tilting modules for the quantum group U_q(sl_2) with divided powers, where q is an even root of unity. Considering large tensor powers of the defining representation, we describe the most probable trajectory in the main Weyl chamber with respect to the character probability measure and analyze fluctuations around this limit shape. This talk is based on arXiv:2404.03933, a joint work with A. Lachowska, O. Postnova and N. Reshetikhin.
+
 &nbsp;
 &nbsp;
 
