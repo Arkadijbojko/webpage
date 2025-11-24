@@ -21,9 +21,22 @@ Limit shape phenomenon emerges in systems with random behavior. It manifests a f
 &nbsp;
 &nbsp;
 
+
 ## Past talks
 
 &nbsp;
+
+[Ethan Fursman](https://ms.unimelb.edu.au/research/mathematical-physics/people), University of Melbourne <br>
+_12/02, SIMIS room 1010_
+
+**Relating Representations of W-algebras with Reduction Functors** <br>
+Vertex Operator Algebras (VOAs) provide a framework for rigorously studying conformal field theories (CFTs). Perhaps the two most important families are the affine VOAs and W-algebras. Even in the simplest examples, these objects admit rich representation theories. Affine VOAs and W-algebras may be related using powerful representation theoretic tools known as Quantum Hamiltonian Reduction (QHR, or Drinfeld-Sokolov reduction), and Inverse Quantum Hamiltonian Reduction (IQHR).
+&nbsp;
+
+This talk will start with a brief introduction to VOAs and W-algebras. Following this, I will illustrate how their module categories may be constructed, and the exotic representations that can appear. Next, I will summarise recent work in collaboration with Justine Fasquel and David Ridout where we explicitly describe how QHR and IQHR relate certain ‘relaxed modules’, and their spectral flow twists. If time permits, I will discuss independent results where I have proven how QHR acts on various other classes of modules, including important reducible but indecomposable modules.
+&nbsp;
+&nbsp;
+
 
 [Jian-Rong Li](https://sites.google.com/view/jianrong-li/home?authuser=0), University of Vienna <br>
 **Thursday 2pm!** _10/23, SIMIS room 1010_
