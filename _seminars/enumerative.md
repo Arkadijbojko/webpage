@@ -21,6 +21,16 @@ In this talk, I will present explicit methods for computing the generating funct
 <br/>
 <br/>
 
+[Zhengyu Zong](https://www.math.tsinghua.edu.cn/info/1125/2649.htm), Tsinghua University <br>
+ _12/04, SCMS room 102_ 
+
+**Remodeling conjecture with descendants**<br>
+Based on the work of Eynard-Orantin and Marino, the Remodeling Conjecture was proposed in the papers of Bouchard-Klemm-Marino-Pasquetti in 2007 and 2008. The Remodeling Conjecture can be viewed as an all genus open-closed mirror symmetry for toric Calabi-Yau 3-orbifolds.
+<br/>
+
+In this talk, I will describe the Remodeling Conjecture with descendants, which is an all genus mirror symmetry with integral structures for descendant Gromov-Witten invariants of toric Calabi-Yau 3- orbifolds. The B-model is given by the oscillatory integrals of the Chekhov-Eynard-Orantin invariants along relative 1-cycles on the equivariant mirror curve. In the non-equivariant setting, we prove the Hosono Conjecture for toric Calabi-Yau 3-orbifolds, which identifies the quantum cohomology central charges of compactly supported coherent sheaves to period integrals of a holomorphic 3-form along integral 3-cycles on the Hori-Vafa B-model. This talk is based on joint work with Bohan Fang, Chiu-Chu Melissa Liu, and Song Yu.
+<br/>
+<br/>
 
 ## Past talks <br>
 &nbsp;
