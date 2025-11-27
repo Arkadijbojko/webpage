@@ -13,13 +13,14 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
  
 
-[Satoshi Nawata](https://sites.google.com/site/snawata/home?authuser=0), Fudan University <br>
- _11/26, SIMIS room 1710_ 
+[Song Yu](https://song-yu-math.github.io/), Tsinghua University, YMSC <br>
+ _TBA, SCMS room TBA_ 
 
-**DT/PT Correspondence from Combinatorics**<br>
-In this talk, I will present explicit methods for computing the generating functions of equivariant Donaldson–Thomas (DT) and Pandharipande–Thomas (PT) invariants on C^3. By using the combinatorial structure of 3d Young diagrams, I will explain quiver descriptions of the corresponding moduli spaces, and how their generating functions can be computed via Jeffrey–Kirwan residues using localization on these moduli spaces. By varying the contour cycles, it is expected to naturally recover the DT/PT correspondence.  While the approach provides strong computational evidence, it currently lacks mathematical rigor, and it is desirable to develop a precise mathematical formulation and proof. This talk is a continuation of my previous presentation.
+**Quantum cohomology of VGIT and flips**<br>
+We will discuss a decomposition of quantum cohomology for variations of GIT quotients. The result is based on the technique of Fourier analysis on quantum cohomology developed by Iritani and Koto. We will also discuss the application to the decomposition of quantum cohomology for standard flips in birational geometry. This talk is based on joint work with Zhaoxing Gu and Tony Yue Yu.
 <br/>
 <br/>
+
 
 [Zhengyu Zong](https://www.math.tsinghua.edu.cn/info/1125/2649.htm), Tsinghua University <br>
  _12/04, SCMS room 102_ 
@@ -34,6 +35,14 @@ In this talk, I will describe the Remodeling Conjecture with descendants, which 
 
 ## Past talks <br>
 &nbsp;
+
+[Satoshi Nawata](https://sites.google.com/site/snawata/home?authuser=0), Fudan University <br>
+ _11/26, SIMIS room 1710_ 
+
+**DT/PT Correspondence from Combinatorics**<br>
+In this talk, I will present explicit methods for computing the generating functions of equivariant Donaldson–Thomas (DT) and Pandharipande–Thomas (PT) invariants on C^3. By using the combinatorial structure of 3d Young diagrams, I will explain quiver descriptions of the corresponding moduli spaces, and how their generating functions can be computed via Jeffrey–Kirwan residues using localization on these moduli spaces. By varying the contour cycles, it is expected to naturally recover the DT/PT correspondence.  While the approach provides strong computational evidence, it currently lacks mathematical rigor, and it is desirable to develop a precise mathematical formulation and proof. This talk is a continuation of my previous presentation.
+<br/>
+<br/>
 
 [Leonardo Santilli](https://www.simis.cn/leonardo-santilli/), SIMIS <br>
  _11/19, SCMS room 102_ 
