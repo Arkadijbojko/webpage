@@ -23,7 +23,7 @@ We will discuss a decomposition of quantum cohomology for variations of GIT quot
 
 
 [Zhengyu Zong](https://www.math.tsinghua.edu.cn/info/1125/2649.htm), Tsinghua University <br>
- _12/04, SCMS room 102_ 
+ _12/04 **Thursday 2pm**, SCMS room 102_ 
 
 **Remodeling conjecture with descendants**<br>
 Based on the work of Eynard-Orantin and Marino, the Remodeling Conjecture was proposed in the papers of Bouchard-Klemm-Marino-Pasquetti in 2007 and 2008. The Remodeling Conjecture can be viewed as an all genus open-closed mirror symmetry for toric Calabi-Yau 3-orbifolds.
