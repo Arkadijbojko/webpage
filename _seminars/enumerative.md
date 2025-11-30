@@ -20,7 +20,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 We will discuss a decomposition of quantum cohomology for variations of GIT quotients. The result is based on the technique of Fourier analysis on quantum cohomology developed by Iritani and Koto. We will also discuss the application to the decomposition of quantum cohomology for standard flips in birational geometry. This talk is based on joint work with Zhaoxing Gu and Tony Yue Yu.
 <br/>
 
-**Pretalk**
+**Pretalk:**
  _12/01 4pm, SCMS room 102_ 
 
 <br/>
