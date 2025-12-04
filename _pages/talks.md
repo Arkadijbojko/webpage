@@ -28,8 +28,6 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 **Past visitors**
 
-Calabi-Yau four wall-crossing, Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. [slides](https://drive.google.com/file/d/1kWbvva2dCHABeA0CGstenNyTmIcEKdHh/view?usp=sharing)
-
 [Interdisciplinary workshop with Sinica](https://arkadijbojko.github.io/webpage/seminars/Sinica/)
 
 [Adeel Khan](https://www.preschema.com/)
@@ -50,6 +48,8 @@ Calabi-Yau four wall-crossing, Enumerative Geometry in East Asia 2025, IPMU Toky
 <br/>
 
 **Past Talks:**
+
+Calabi-Yau four wall-crossing, Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. [slides](https://drive.google.com/file/d/1kWbvva2dCHABeA0CGstenNyTmIcEKdHh/view?usp=sharing)
 
 Nekrasov’s conjecture and its generalizations via CY4 wall-crossing, [SIMIS-Sinica Interdisciplinary Workshop](https://arkadijbojko.github.io/webpage/seminars/Sinica/), Shanghai, September 2025.
 
