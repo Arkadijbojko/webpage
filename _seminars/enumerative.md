@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
  
 
 [Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br>
- _12/10, SIMIS room TBA_ 
+ _12/10, SIMIS room 1710_ 
 
 **Quasimaps of surfaces**<br>
 We present a string-theoretic approach to surface counting
