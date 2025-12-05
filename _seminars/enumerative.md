@@ -17,17 +17,9 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
  _12/10, SIMIS room 1710_ 
 
 **Quasimaps of surfaces**<br>
-We present a string-theoretic approach to surface counting
-in local Calabi-Yau fourfolds via supersymmetric localization in
-topologically twisted four-dimensional gauge theories.  The approach is
-based on a correspondence between PT1-stable pairs on local fourfolds
-and twisted quasimaps with fixed two-dimensional domain associated to
-the ADHM quiver. <br/>
+We present a string-theoretic approach to surface counting in local Calabi-Yau fourfolds via supersymmetric localization in topologically twisted four-dimensional gauge theories.  The approach is based on a correspondence between PT1-stable pairs on local fourfolds and twisted quasimaps with fixed two-dimensional domain associated to the ADHM quiver. <br/>
 
-For toric fourfolds, we derive a conjectural formula for the K-theoretic
-quasimap partition function via Coulomb branch localization. As a result,
-we obtain a prescription fixing all sign ambiguities in the equivariant
-computation of such invariants.<br/>
+For toric fourfolds, we derive a conjectural formula for the K-theoretic quasimap partition function via Coulomb branch localization. As a result, we obtain a prescription fixing all sign ambiguities in the equivariant computation of such invariants.<br/>
 
 Based on 2508.11512 with E. Diaconescu.
 
