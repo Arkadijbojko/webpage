@@ -12,6 +12,25 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+[Ming Lu](https://scholar.google.com/citations?user=gGlNzFkAAAAJ&hl=zh-CN), Sichuan University <br>
+_12/12, SIMIS room 1010_
+
+**Drinfeld type presentation of affine i-quantum groups** <br>
+A quantum symmetric pair consists of a quantum group and its coideal subalgebra (called an i-quantum group). A quantum group can be viewed as an example of i-quantum groups associated to symmetric pairs of diagonal type. We introduced the framework of iHopf algebra to establish the connections between quantum groups and i-quantum groups.
+&nbsp;
+
+In this talk, I shall give a Drinfeld-type presentation for quasi-split affine i-quantum groups, and will use iHopf algebras to give the relationship between Drinfeld presentations of affine quantum groups and i-quantum groups. 
+&nbsp;
+
+This is based on joint works with Xiaolong Pan, Weiqiang Wang, and Weinan Zhang.
+&nbsp;
+&nbsp;
+
+
+## Past talks
+
+&nbsp;
+
 [Ethan Fursman](https://ms.unimelb.edu.au/research/mathematical-physics/people), University of Melbourne <br>
 _12/02, SIMIS room 1010_
 
@@ -21,11 +40,6 @@ Vertex Operator Algebras (VOAs) provide a framework for rigorously studying conf
 
 This talk will start with a brief introduction to VOAs and W-algebras. Following this, I will illustrate how their module categories may be constructed, and the exotic representations that can appear. Next, I will summarise recent work in collaboration with Justine Fasquel and David Ridout where we explicitly describe how QHR and IQHR relate certain ‘relaxed modules’, and their spectral flow twists. If time permits, I will discuss independent results where I have proven how QHR acts on various other classes of modules, including important reducible but indecomposable modules.
 &nbsp;
-&nbsp;
-
-
-## Past talks
-
 &nbsp;
 
 
