@@ -13,6 +13,30 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
  
 
+[Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br>
+ _12/10, SIMIS room TBA_ 
+
+**Quasimaps of surfaces**<br>
+We present a string-theoretic approach to surface counting
+in local Calabi-Yau fourfolds via supersymmetric localization in
+topologically twisted four-dimensional gauge theories.  The approach is
+based on a correspondence between PT1-stable pairs on local fourfolds
+and twisted quasimaps with fixed two-dimensional domain associated to
+the ADHM quiver. <br/>
+
+For toric fourfolds, we derive a conjectural formula for the K-theoretic
+quasimap partition function via Coulomb branch localization. As a result,
+we obtain a prescription fixing all sign ambiguities in the equivariant
+computation of such invariants.<br/>
+
+Based on 2508.11512 with E. Diaconescu.
+
+<br/>
+<br/>
+
+## Past talks <br>
+&nbsp;
+
 [Song Yu](https://song-yu-math.github.io/), Tsinghua University, YMSC <br>
  _12/03, SCMS room 102_ 
 
@@ -38,8 +62,6 @@ In this talk, I will describe the Remodeling Conjecture with descendants, which 
 <br/>
 <br/>
 
-## Past talks <br>
-&nbsp;
 
 [Satoshi Nawata](https://sites.google.com/site/snawata/home?authuser=0), Fudan University <br>
  _11/26, SIMIS room 1710_ 
