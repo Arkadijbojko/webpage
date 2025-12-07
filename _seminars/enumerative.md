@@ -13,7 +13,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
  
 
-[Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br>
+[Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br> 
  _12/10, SIMIS room 1710_ 
 
 **Quasimaps of surfaces**<br>
