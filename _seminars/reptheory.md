@@ -13,7 +13,7 @@ related_publications: false
 &nbsp;
 
 [Ming Lu](https://scholar.google.com/citations?user=gGlNzFkAAAAJ&hl=zh-CN), Sichuan University <br>
-_12/12, SIMIS room 1010_
+_12/12 **Friday 4pm**, SIMIS room 1010_
 
 **Drinfeld type presentation of affine i-quantum groups** <br>
 A quantum symmetric pair consists of a quantum group and its coideal subalgebra (called an i-quantum group). A quantum group can be viewed as an example of i-quantum groups associated to symmetric pairs of diagonal type. We introduced the framework of iHopf algebra to establish the connections between quantum groups and i-quantum groups.
