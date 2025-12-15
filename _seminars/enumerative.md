@@ -13,6 +13,19 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
  
 
+[Changzheng Li](https://math.sysu.edu.cn/gagp/czli), Sun Yat-sen University <br> 
+ _12/19 **Friday 2pm**, SCMS room 102_ 
+
+**Unfolding of equivariant F-bundles and application to the mirror symmetry of flag varieties**<br>
+ In this talk, we show an unfolding theorem for equivariant F-bundles (a variant of Frobenius manifolds), generalizing Hertling-Manin’s universal unfolding of meromorphic connections. As an application, we obtain the mirror symmetry theorem for the big quantum cohomology of flag varieties, from the recent works on the small quantum cohomology mirror symmetry, via the equivariant unfolding theorem. This is based on my joint work with Thorgal Hinault, Tony Yue Yu, Chi Zhang and Shaowu Zhang.
+
+<br/>
+<br/>
+
+## Past talks <br>
+&nbsp;
+
+
 [Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br> 
  _12/10, SIMIS room 1710_ 
 
@@ -25,9 +38,6 @@ Based on 2508.11512 with E. Diaconescu.
 
 <br/>
 <br/>
-
-## Past talks <br>
-&nbsp;
 
 [Song Yu](https://song-yu-math.github.io/), Tsinghua University, YMSC <br>
  _12/03, SCMS room 102_ 
