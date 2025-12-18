@@ -13,6 +13,9 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
  
 
+## Past talks <br>
+&nbsp;
+
 [Changzheng Li](https://math.sysu.edu.cn/gagp/czli), Sun Yat-sen University <br> 
  _12/19 **Friday 2pm**, SCMS room 102_ 
 
@@ -21,9 +24,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 
 <br/>
 <br/>
-
-## Past talks <br>
-&nbsp;
 
 
 [Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html), BIMSA <br> 
