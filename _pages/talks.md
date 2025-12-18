@@ -19,14 +19,18 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 **Future Visitors**
 
+[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20)
+
+[Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20)
+
+<br/>
+<br/>
+
+**Some past visitors**
+
 [Yuuji Tanaka](https://sites.google.com/view/yuuji-tanaka/)
 
 [Nicolo Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
-
-<br/>
-<br/>
-
-**Past visitors**
 
 [Interdisciplinary workshop with Sinica](https://arkadijbojko.github.io/webpage/seminars/Sinica/)
 
@@ -42,7 +46,6 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 [Wei-Ping Li](https://www.math.hkust.edu.hk/people/faculty/profile/mawpli/), June 2025.
 
-[Emile Bouaziz](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), May 2025.
 
 <br/>
 <br/>
