@@ -12,6 +12,12 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+
+
+## Past talks
+
+&nbsp;
+
 [Ming Lu](https://scholar.google.com/citations?user=gGlNzFkAAAAJ&hl=zh-CN), Sichuan University <br>
 _12/12 **Friday 4pm**, SIMIS room 1010_
 
@@ -26,10 +32,6 @@ This is based on joint works with Xiaolong Pan, Weiqiang Wang, and Weinan Zhang.
 &nbsp;
 &nbsp;
 
-
-## Past talks
-
-&nbsp;
 
 [Ethan Fursman](https://ms.unimelb.edu.au/research/mathematical-physics/people), University of Melbourne <br>
 _12/02, SIMIS room 1010_
