@@ -1,0 +1,19 @@
+---
+layout: page
+title: QAMGAST conference
+description: Quantum Algebras Meet Gauge Theory and String Theory 
+importance: 4
+category: work
+related_publications: false
+---
+
+[Coorganized](https://www.simis.cn/sub/qamgast-workshop2026/) with Jean-Emile Bourgine, Mykola Dedushenko, Zhengping Gui, Nafiz Ishtiaque, Tomoki Nosaka, Valerii Sopin, Yehao Zhou, and Hao Zou.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/QAMGAST_poster.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+If interested in attending, use the [registration form](https://www2.yukawa.kyoto-u.ac.jp/~tomoki.nosaka/QAMGAST2026Registration.html). 
+</div>
