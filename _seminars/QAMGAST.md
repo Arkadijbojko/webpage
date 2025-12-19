@@ -15,3 +15,4 @@ If interested in attending, use the [registration form](https://www2.yukawa.kyot
         {% include figure.liquid loading="eager" path="assets/img/QAMGAST_poster.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
