@@ -12,6 +12,16 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+[Ian Marquette](https://scholars.latrobe.edu.au/imarquette), La Trobe University <br>
+_12/30, SIMIS room 1010_
+
+**Painlevé transcendents in quantum mechanics and algebraic aspects** <br>
+I will discuss the six Painlevé transcendents that were obtained by Painlevé, Gambier, and Fuchs in the early 1900s. They play an important role in the classification of ordinary differential equations, and they are related to several areas in physics and mathematics, such as the reduction of various nonlinear differential equations of mathematical physics, relativity, statistical mechanics, and quantum field theory. Their connection with non-relativistic quantum mechanics is much more recent. The Painlevé transcendents appear  in context of the potential of quantum Hamiltonians obtained via higher order Darboux transformations, operator algebras and superintegrability. <br>
+
+I will do an overview of quantum systems involving the Painlevé transcendents, their known properties and related algebraic structures. This includes one-dimensional Hamiltonian and two-dimensional systems on Euclidean and Riemannian spaces. I will highlight results for Hamiltonians whose potentials are written in terms of the fourth and sixth Painlevé transcendents. I will also discuss the connection with exceptional orthogonal polynomials of Hermite, Laguerre and Jacobi type. The model involving the sixth Painlevé transcendent has a cubic algebra, which is exploited to obtain the energy spectrum via finite dimensional representations. 
+
+&nbsp;
+&nbsp;
 
 
 ## Past talks
