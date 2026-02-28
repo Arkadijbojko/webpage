@@ -4,7 +4,7 @@ title: Enumerative seminar
 description: Everything interesting related to enumerative algebraic geometry
 img: assets/img/calabi-yau-manifold.png
 importance: 1
-category: work
+category: Past
 related_publications: false
 ---
 
