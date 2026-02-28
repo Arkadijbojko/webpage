@@ -4,7 +4,7 @@ title: QAMGAST conference
 description: Quantum Algebras Meet Gauge Theory and String Theory 
 img: assets/img/quamgastsmaller.jpg
 importance: 4
-category: work
+category: Past
 related_publications: false
 ---
 
