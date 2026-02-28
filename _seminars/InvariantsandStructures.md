@@ -14,21 +14,14 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
- Title: $K$-theoretic wall-crossing formulas and multiple basic
-hypergeometric series
+[Ryo Ohkawa](https://www.math.kobe-u.ac.jp/home-j/ohkawa-e.html), Kobe University <br> 
+ _03/11, SIMIS room TBA_ 
 
-Abstract: We study $K$-theoretic integrals over famed quiver moduli
-via wall-crossing phenomena.
-In particular, we focus on integrals over the handsaw quiver varieties
-of type $A_{1}$, and get functional equations for generating series of
-the integrals.
-These equations give geometric interpretation of transformation
-formulas for multiple basic hypergeometric series including the
-Kajihara transformation formula, and the one studied by
-Langer-Schlosser-Warnaar and Hallnäs-Langman-Noumi-Rosengren.
-We also study the chainsaw quiver varieties, and give conjectures for
-generating series of the integrals.
-This is based on joint work with Shiraishi.
+**$K$-theoretic wall-crossing formulas and multiple basic hypergeometric series**<br>
+We study $K$-theoretic integrals over famed quiver moduli via wall-crossing phenomena. In particular, we focus on integrals over the handsaw quiver varieties of type $A_{1}$, and get functional equations for generating series of the integrals. These equations give geometric interpretation of transformation formulas for multiple basic hypergeometric series including the Kajihara transformation formula, and the one studied by Langer-Schlosser-Warnaar and Hallnäs-Langman-Noumi-Rosengren. We also study the chainsaw quiver varieties, and give conjectures for generating series of the integrals. This is based on joint work with Shiraishi.
+
+<br/>
+<br/>
 
 ## Past talks <br>
 &nbsp;
