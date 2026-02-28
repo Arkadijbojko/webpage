@@ -4,7 +4,7 @@ title: SIMIS-Sinica Interdisciplinary workshop
 description: I have invited 6 speakers from Academia Sinica working on subjects I am interested in. To establish stronger relations between our institutes, there will also be 6 speakers from SIMIS on related topics.
 img: assets/img/Simissinicaworkshop.png
 importance: 3
-category: work
+category: Past
 related_publications: false
 ---
 ## Program
