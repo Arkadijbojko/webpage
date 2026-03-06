@@ -5,7 +5,7 @@ permalink: /organizing/
 description: Seminars, workshops, and conferences coorganized by me. 
 nav: true
 nav_order: 9
-display_categories: [ongoing, past]
+display_categories: [Ongoing, Past]
 horizontal: false
 ---
 
