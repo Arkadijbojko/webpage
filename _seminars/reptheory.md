@@ -4,7 +4,7 @@ title: Representation theory seminar
 description: Organized by the representation theory group at SIMIS
 img: assets/img/421polytope.png
 importance: 2
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 
