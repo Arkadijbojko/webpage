@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Ryo Ohkawa](https://www.math.kobe-u.ac.jp/home-j/ohkawa-e.html), Kobe University <br> 
+[Ryo Ohkawa](https://www.math.kobe-u.ac.jp/home-j/ohkawa-e.html), RIMS, Kyoto University <br> 
  _03/11, SIMIS room 1110_ 
 
 **$K$-theoretic wall-crossing formulas and multiple basic hypergeometric series**<br>
