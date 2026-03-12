@@ -15,7 +15,7 @@ related_publications: false
 [Victor Mishnyakov](https://itmp.msu.ru/en/institute/phd-students/mishnyakov-viktor), ITMP, Lomonosov Moscow State University <br>
 _03/17, SIMIS room 1410_
 
-**Bases in shift invariant symmetric functions and applications** <br>
+**Bases in shift invariant symmetric functions and applications**<br>
 The ring of symmetric functions is known to play many important roles in representation theory and mathematical physics. One natural question to ask is whether there are symmetric functions, that are invariant under a simultaneous shift of the arguments. In this talk I will describe some preliminary results on how to construct an explicit basis for such symmetric functions. I will also explain the physics problem, that motivated this construction. 
 
 &nbsp;
