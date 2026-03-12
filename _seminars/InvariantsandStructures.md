@@ -14,11 +14,12 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Ryo Ohkawa](https://www.math.kobe-u.ac.jp/home-j/ohkawa-e.html), RIMS, Kyoto University <br> 
- _03/11, SIMIS room 1010_ 
+[Konstantin Aleshkin](https://db.ipmu.jp/member/personal/5632en.html), RIMS, Kyoto University <br> 
+_03/25, SIMIS room 1010_
 
-**$K$-theoretic wall-crossing formulas and multiple basic hypergeometric series**<br>
-We study $K$-theoretic integrals over famed quiver moduli via wall-crossing phenomena. In particular, we focus on integrals over the handsaw quiver varieties of type $A_{1}$, and get functional equations for generating series of the integrals. These equations give geometric interpretation of transformation formulas for multiple basic hypergeometric series including the Kajihara transformation formula, and the one studied by Langer-Schlosser-Warnaar and Hallnäs-Langman-Noumi-Rosengren. We also study the chainsaw quiver varieties, and give conjectures for generating series of the integrals. This is based on joint work with Shiraishi.
+**TBA**<br>
+TBA
+
 
 <br/>
 <br/>
@@ -26,5 +27,9 @@ We study $K$-theoretic integrals over famed quiver moduli via wall-crossing phen
 ## Past talks <br>
 &nbsp;
 
+[Ryo Ohkawa](https://www.math.kobe-u.ac.jp/home-j/ohkawa-e.html), RIMS, Kyoto University <br> 
+ _03/11, SIMIS room 1010_ 
 
+**$K$-theoretic wall-crossing formulas and multiple basic hypergeometric series**<br>
+We study $K$-theoretic integrals over famed quiver moduli via wall-crossing phenomena. In particular, we focus on integrals over the handsaw quiver varieties of type $A_{1}$, and get functional equations for generating series of the integrals. These equations give geometric interpretation of transformation formulas for multiple basic hypergeometric series including the Kajihara transformation formula, and the one studied by Langer-Schlosser-Warnaar and Hallnäs-Langman-Noumi-Rosengren. We also study the chainsaw quiver varieties, and give conjectures for generating series of the integrals. This is based on joint work with Shiraishi.
 
