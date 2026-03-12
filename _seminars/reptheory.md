@@ -12,6 +12,18 @@ related_publications: false
 &nbsp;
 &nbsp;
 
+[Victor Mishnyakov](https://itmp.msu.ru/en/institute/phd-students/mishnyakov-viktor), ITMP, Lomonosov Moscow State University <br>
+_03/17, SIMIS room 1010_
+
+**Bases in shift invariant symmetric functions and applications ** <br>
+The ring of symmetric functions is known to play many important roles in representation theory and mathematical physics. One natural question to ask is whether there are symmetric functions, that are invariant under a simultaneous shift of the arguments. In this talk I will describe some preliminary results on how to construct an explicit basis for such symmetric functions. I will also explain the physics problem, that motivated this construction. 
+
+&nbsp;
+&nbsp;
+
+
+## Past talks
+
 [Ian Marquette](https://scholars.latrobe.edu.au/imarquette), La Trobe University <br>
 _12/30, SIMIS room 1010_
 
@@ -22,9 +34,6 @@ I will do an overview of quantum systems involving the Painlevé transcendents, 
 
 &nbsp;
 &nbsp;
-
-
-## Past talks
 
 &nbsp;
 
