@@ -14,16 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br> 
-_03/24, SIMIS room 610_
 
-**Differential graded categories of D-branes, virtual de Rham complexes and deformation quantisation**<br>
-Given a holomorphic symplectic manifold X, I will associate to X a virtual de Rham dg category and a dg category of canonical D-branes of type B wrapped on spin complex Lagrangians in X along with its deformation quantisation. For any suitable collection of complex Lagrangians, I will upgrade the deformation quantisation, with supports in the collection, to a formal deformation whose central fibre is the category of D-branes and whose generic fibre is the deformation quantisation. I will then show that the latter is quasi-isomorphic to the (base-change of) virtual de Rham category and explain the formality of the de Rham category, thus making the formal deformation “generically formal”. Time permitting, I will introduce the Kaledin class obstructing formality of a dg category and explain how the proper Calabi-Yau structure on the formal deformation leads to “generic formality => formality”, thus showing the formality of the dg category of D-branes.
-This story can be thought of as a B-side analogue of Ivan Smith’s conjecture on the formality of the Solomon-Verbitsky Fukaya category under Kapustin's duality between type A and type B D-branes on X.
-
-
-<br/>
-<br/>
 
 [Konstantin Aleshkin](https://db.ipmu.jp/member/personal/5632en.html), Kavli IPMU <br> 
 _03/25, SIMIS room 1010_
@@ -31,6 +22,17 @@ _03/25, SIMIS room 1010_
 **Critical cohomology of semiprojective varieties**<br>
 Let  f : U -> C be a regular function on a quasiprojective variety or an orbifold. There exist several related constructions of cohomology groups (called critical cohomology) associated to such a pair. These cohomology groups appear naturally in enumerative geometry of Landau-Ginzburg models such as mathematical theory of GLSM. In general, these cohomology groups are difficult to compute and different constructions are not canonically isomorphic. The situation simplifies when f is
 weighted homogeneous with respect to a torus action. In the talk I will explain relations between various constructions of critical cohomology and the decomposition theorem in the weighted homogeneous case. I will comment on the orbifold generalizations and provide an explicit description of the critical cohomology if U is a toric DM stack.
+
+
+<br/>
+<br/>
+
+[Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br> 
+_Postponed_
+
+**Differential graded categories of D-branes, virtual de Rham complexes and deformation quantisation**<br>
+Given a holomorphic symplectic manifold X, I will associate to X a virtual de Rham dg category and a dg category of canonical D-branes of type B wrapped on spin complex Lagrangians in X along with its deformation quantisation. For any suitable collection of complex Lagrangians, I will upgrade the deformation quantisation, with supports in the collection, to a formal deformation whose central fibre is the category of D-branes and whose generic fibre is the deformation quantisation. I will then show that the latter is quasi-isomorphic to the (base-change of) virtual de Rham category and explain the formality of the de Rham category, thus making the formal deformation “generically formal”. Time permitting, I will introduce the Kaledin class obstructing formality of a dg category and explain how the proper Calabi-Yau structure on the formal deformation leads to “generic formality => formality”, thus showing the formality of the dg category of D-branes.
+This story can be thought of as a B-side analogue of Ivan Smith’s conjecture on the formality of the Solomon-Verbitsky Fukaya category under Kapustin's duality between type A and type B D-branes on X.
 
 
 <br/>
