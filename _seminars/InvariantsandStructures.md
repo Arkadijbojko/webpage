@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 [Kwok Wai Chan](https://www.math.cuhk.edu.hk/people/academic-staff/kwchan), CUHK <br> 
-_**Friday 2pm** 04/03, SIMIS room 1110_
+_**Friday 4 pm** 04/03, SIMIS room 1110_
 
 **Coulomb branch action on quantum cohomology**<br>
 In his 2014 ICM address, Teleman conjectured that there should be a nonabelian generalization of shift operators. In this talk, I will explain such a construction, which gives rise to an action of Coulomb branches on equivariant quantum cohomology of smooth semi-projective varieties that satisfy suitable conditions. This leads to several applications including a geometric characterization of the BFN Coulomb branch, an action of the affine nil-Hecke algebra on equivariant quantum cohomology of a flag variety which recovers the Peterson-Lam-Shimozono isomorphism, and a proof of a conjecture of Baverman-Finkelberg-Nakajima. This talk is based on recent joint works arXiv:2505.23340 and arXiv:2601.19691 with Ki Fung Chan, Chi Hong Chow and Chin Hang Eddie Lam.
