@@ -14,7 +14,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe <br> 
+[Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe, CNRS <br> 
 _04/15 SIMIS room 1010_
 
 **qq-character and sheaf counting**<br>
