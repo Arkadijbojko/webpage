@@ -13,9 +13,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 &nbsp;
 
-- 
-
-- 
 
 [Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe <br> 
 _04/15 SIMIS room 1010_
