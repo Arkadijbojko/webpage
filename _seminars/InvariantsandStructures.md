@@ -17,7 +17,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 [Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe, CNRS <br> 
 _04/15 SIMIS room 1010_
 
-**qq-character and sheaf counting**<br>
+**qq-characters and sheaf counting**<br>
 The qq-character introduced by Nekrasov in the context of supersymmetric gauge theory is yet another deformation of Frenkel-Reshetikhin's q-character of a finite-dimensional module of quantum affine algebras. As in the case of q-character, the qq-character allows a geometric realization based on Nakajima's quiver variety. More recently, we have extended the notion of qq-character to more generalized situations based on the formalism of quiver W-algebras, whose geometric description relies on equivariant cohomology/K-theory of moduli spaces of coherent sheaves. I'd like to address a geometric formulation of these types of qq-characters with emphasis on its relation to enumerative invariants, quiver descriptions, and wall-crossing structures. Joint work with G. Noshita (Pekin U).
 
 <br/>
