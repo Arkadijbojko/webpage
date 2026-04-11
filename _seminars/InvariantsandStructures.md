@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Invariants and Structures
-description: 
+description: This seminar explores how attaching invariants and representation-theoretic structures to geometries allows us to apply algebraic tools to make conclusions about the underlying geometric problems. 
 img: assets/img/calabi-yau-manifold.png
 importance: 1
 category: Ongoing
