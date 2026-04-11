@@ -21,7 +21,7 @@ In this vast project, I have chosen to tackle the question of wall-crossing form
         {% include figure.liquid path="assets/img/familyVAinsertions.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     </div>
-<div class="caption">I use T-deformations of vertex algebras in a formal variable u to formulate wall-crossing of invariants. The first picture represents the underlying space where such a deformation lives. To obtain explicit formulae, one takes an appropriate coefficient of the expansion in $u$ as is portrayed in the second illustration.
+<div class="caption">I use T-deformations of vertex algebras in a formal variable u to formulate wall-crossing of invariants. The first picture represents the underlying space where such a deformation lives. To obtain explicit formulae, one takes an appropriate coefficient of the expansion in u as is portrayed in the second illustration.
 </div>
 
 <div class="row">
