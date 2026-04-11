@@ -29,6 +29,6 @@ Project 1 will provide tools for proving natural DT/PT correspondences on projec
         {% include figure.liquid loading="eager" path="assets/img/PT0toPT1.png" title="" class="img-fluid rounded z-depth-1" %}
 </div>
 </div>
-<div class="caption">To prove the results relating the different surface counting theories, I use my families of vertex algebras explained in [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) to extract the conjectured formulae from wall-crossing formulae between $PT^{(0)}$ and $PT^{(1)}$ stabilities. Taking the right coefficient of the family of vertex algebras in the formal variable $u$ is represented on the left. On the right, I offer a different illustration of the stability conditions interpolating between $PT^{(0)}$ and $PT^{(1)}$ stable pairs.
+<div class="caption">To prove the results relating the different surface counting theories, I use my T-deformations of vertex algebras explained in [Project 1](https://arkadijbojko.github.io/mypage/projects/1_project/) to extract the conjectured formulae from wall-crossing formulae between $PT^{(0)}$ and $PT^{(1)}$ stabilities. Taking the right coefficient of the family of vertex algebras in the formal variable $u$ is represented on the left. On the right, I offer a different illustration of the stability conditions interpolating between $PT^{(0)}$ and $PT^{(1)}$ stable pairs.
 </div>
 
