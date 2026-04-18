@@ -14,15 +14,25 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe, CNRS <br> 
-_04/15 SIMIS room 1010_
 
-**qq-characters and sheaf counting**<br>
-The qq-character introduced by Nekrasov in the context of supersymmetric gauge theory is yet another deformation of Frenkel-Reshetikhin's q-character of a finite-dimensional module of quantum affine algebras. As in the case of q-character, the qq-character allows a geometric realization based on Nakajima's quiver variety. More recently, we have extended the notion of qq-character to more generalized situations based on the formalism of quiver W-algebras, whose geometric description relies on equivariant cohomology/K-theory of moduli spaces of coherent sheaves. I'd like to address a geometric formulation of these types of qq-characters with emphasis on its relation to enumerative invariants, quiver descriptions, and wall-crossing structures. Joint work with G. Noshita (Pekin U).
+
+[Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
+_04/29 SIMIS room 710_
+
+**Universal identities and Dubrovin-Zhang hierarchies**<br>
+ Universal identities are certain relations satisfied by the correlation functions of a cohomological field theory, whose form is independent of the details of the underlying cohomological field theory. Such identities are powerful tools for studying topology of moduli space of stable curves. In this talk, we will discuss the relation between universal identities and integrable hierarchies of topological type, which are also known as Dubrovin-Zhang hierarchies. We will show that it is possible to construct universal identities purely from the loop equations of the Dubrovin-Zhang free energy. In particular, this indicates that the existence of universal identities is a consequence of the existence of an integrable hierarchy of topological type, and hence universal identities can be studied from the view point of integrable hierarchies. This talk is based on joint work with S. Shadrin.
 
 <br/>
 <br/>
 
+[Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
+_04/29 SIMIS room 710_
+
+**Universal identities and Dubrovin-Zhang hierarchies**<br>
+ Universal identities are certain relations satisfied by the correlation functions of a cohomological field theory, whose form is independent of the details of the underlying cohomological field theory. Such identities are powerful tools for studying topology of moduli space of stable curves. In this talk, we will discuss the relation between universal identities and integrable hierarchies of topological type, which are also known as Dubrovin-Zhang hierarchies. We will show that it is possible to construct universal identities purely from the loop equations of the Dubrovin-Zhang free energy. In particular, this indicates that the existence of universal identities is a consequence of the existence of an integrable hierarchy of topological type, and hence universal identities can be studied from the view point of integrable hierarchies. This talk is based on joint work with S. Shadrin.
+
+<br/>
+<br/>
 
 
 [Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br> 
@@ -38,6 +48,16 @@ This story can be thought of as a B-side analogue of Ivan Smith’s conjecture o
 
 ## Past talks <br>
 &nbsp;
+
+[Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe, CNRS <br> 
+_04/15 SIMIS room 1010_
+
+**qq-characters and sheaf counting**<br>
+The qq-character introduced by Nekrasov in the context of supersymmetric gauge theory is yet another deformation of Frenkel-Reshetikhin's q-character of a finite-dimensional module of quantum affine algebras. As in the case of q-character, the qq-character allows a geometric realization based on Nakajima's quiver variety. More recently, we have extended the notion of qq-character to more generalized situations based on the formalism of quiver W-algebras, whose geometric description relies on equivariant cohomology/K-theory of moduli spaces of coherent sheaves. I'd like to address a geometric formulation of these types of qq-characters with emphasis on its relation to enumerative invariants, quiver descriptions, and wall-crossing structures. Joint work with G. Noshita (Pekin U).
+
+<br/>
+<br/>
+
 
 [Kwok Wai Chan](https://www.math.cuhk.edu.hk/people/academic-staff/kwchan), CUHK <br> 
 _**Friday 4 pm** 04/03, SIMIS room 1110_
