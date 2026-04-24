@@ -25,11 +25,16 @@ _04/29 SIMIS room 710_
 <br/>
 <br/>
 
-[Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
-_04/29 SIMIS room 710_
+[Yu Tung Yau](https://sites.google.com/view/yutungyau/home), Kavli IPMU <br> 
+_05/06 SIMIS room 710_
 
-**Universal identities and Dubrovin-Zhang hierarchies**<br>
- Universal identities are certain relations satisfied by the correlation functions of a cohomological field theory, whose form is independent of the details of the underlying cohomological field theory. Such identities are powerful tools for studying topology of moduli space of stable curves. In this talk, we will discuss the relation between universal identities and integrable hierarchies of topological type, which are also known as Dubrovin-Zhang hierarchies. We will show that it is possible to construct universal identities purely from the loop equations of the Dubrovin-Zhang free energy. In particular, this indicates that the existence of universal identities is a consequence of the existence of an integrable hierarchy of topological type, and hence universal identities can be studied from the view point of integrable hierarchies. This talk is based on joint work with S. Shadrin.
+**Brane quantization and SYZ mirror symmetry**<br>
+Coisotropic A-branes were introduced by Kapustin and Orlov to enlarge the Fukaya category of a symplectic manifold in a way that aligns with predictions from homological mirror symmetry. From a mathematical perspective, however, the categorical framework governing such branes remains largely undeveloped.
+In this talk, I focus on the semi-flat SYZ mirror symmetry setting and present a mathematical realization of the self-Hom spaces of semi-affine, space-filling coisotropic A-branes (based on joint work in progress with K. Chan, N. C. Leung, Q. Li, and Y.-H. Suen). Our construction yields a non-formal holomorphic deformation quantization of the underlying A-model manifold.
+
+<br/>
+
+This approach not only reflects ideas from the Gukov–Witten brane quantization proposal and the family Floer theory framework, but also leads to a mirror correspondence identifying these A-model morphism spaces with the corresponding B-model morphism spaces on the mirror manifold. Moreover, the resulting actions on Lagrangian A-branes supported on torus fibers, and on their mirror B-branes, are shown to be functorial.
 
 <br/>
 <br/>
