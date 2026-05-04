@@ -15,16 +15,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 
 
 
-
-[Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
-_04/29 SIMIS room 710_
-
-**Universal identities and Dubrovin-Zhang hierarchies**<br>
- Universal identities are certain relations satisfied by the correlation functions of a cohomological field theory, whose form is independent of the details of the underlying cohomological field theory. Such identities are powerful tools for studying topology of moduli space of stable curves. In this talk, we will discuss the relation between universal identities and integrable hierarchies of topological type, which are also known as Dubrovin-Zhang hierarchies. We will show that it is possible to construct universal identities purely from the loop equations of the Dubrovin-Zhang free energy. In particular, this indicates that the existence of universal identities is a consequence of the existence of an integrable hierarchy of topological type, and hence universal identities can be studied from the view point of integrable hierarchies. This talk is based on joint work with S. Shadrin.
-
-<br/>
-<br/>
-
 [Yu Tung Yau](https://sites.google.com/view/yutungyau/home), Kavli IPMU <br> 
 _05/06 SIMIS room 710_
 
@@ -53,6 +43,16 @@ This story can be thought of as a B-side analogue of Ivan Smith’s conjecture o
 
 ## Past talks <br>
 &nbsp;
+
+[Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
+_04/29 SIMIS room 710_
+
+**Universal identities and Dubrovin-Zhang hierarchies**<br>
+ Universal identities are certain relations satisfied by the correlation functions of a cohomological field theory, whose form is independent of the details of the underlying cohomological field theory. Such identities are powerful tools for studying topology of moduli space of stable curves. In this talk, we will discuss the relation between universal identities and integrable hierarchies of topological type, which are also known as Dubrovin-Zhang hierarchies. We will show that it is possible to construct universal identities purely from the loop equations of the Dubrovin-Zhang free energy. In particular, this indicates that the existence of universal identities is a consequence of the existence of an integrable hierarchy of topological type, and hence universal identities can be studied from the view point of integrable hierarchies. This talk is based on joint work with S. Shadrin.
+
+<br/>
+<br/>
+
 
 [Taro Kimura](https://kimura.pages.math.cnrs.fr/), IMB, Université Bourgogne Europe, CNRS <br> 
 _04/15 SIMIS room 1010_
