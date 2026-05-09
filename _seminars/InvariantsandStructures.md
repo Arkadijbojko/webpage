@@ -14,9 +14,6 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-Title: Window categories and GLSM's: old results and new speculations
-
-Abstract: I will briefly review the appearance of window categories on gauged linear sigma models and then move on to its uses in relation to local systems associated to Calabi-Yau manifolds and beyond.
 
 [Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/), SIMIS <br> 
 _05/13, SIMIS room 710_
