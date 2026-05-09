@@ -14,17 +14,16 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
+Title: Window categories and GLSM's: old results and new speculations
 
-[Yu Tung Yau](https://sites.google.com/view/yutungyau/home), Kavli IPMU <br> 
-_05/06 SIMIS room 710_
+Abstract: I will briefly review the appearance of window categories on gauged linear sigma models and then move on to its uses in relation to local systems associated to Calabi-Yau manifolds and beyond.
 
-**Brane quantization and SYZ mirror symmetry**<br>
-Coisotropic A-branes were introduced by Kapustin and Orlov to enlarge the Fukaya category of a symplectic manifold in a way that aligns with predictions from homological mirror symmetry. From a mathematical perspective, however, the categorical framework governing such branes remains largely undeveloped.
-In this talk, I focus on the semi-flat SYZ mirror symmetry setting and present a mathematical realization of the self-Hom spaces of semi-affine, space-filling coisotropic A-branes (based on joint work in progress with K. Chan, N. C. Leung, Q. Li, and Y.-H. Suen). Our construction yields a non-formal holomorphic deformation quantization of the underlying A-model manifold.
+[Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/), SIMIS <br> 
+_05/13, SIMIS room 710_
 
-<br/>
+**Window categories and GLSM's: old results and new speculations**<br>
+I will briefly review the appearance of window categories on gauged linear sigma models and then move on to their uses in relation to local systems associated to Calabi-Yau manifolds and beyond.
 
-This approach not only reflects ideas from the Gukov–Witten brane quantization proposal and the family Floer theory framework, but also leads to a mirror correspondence identifying these A-model morphism spaces with the corresponding B-model morphism spaces on the mirror manifold. Moreover, the resulting actions on Lagrangian A-branes supported on torus fibers, and on their mirror B-branes, are shown to be functorial.
 
 <br/>
 <br/>
@@ -41,8 +40,24 @@ This story can be thought of as a B-side analogue of Ivan Smith’s conjecture o
 <br/>
 <br/>
 
+
+
 ## Past talks <br>
 &nbsp;
+
+[Yu Tung Yau](https://sites.google.com/view/yutungyau/home), Kavli IPMU <br> 
+_05/06 SIMIS room 710_
+
+**Brane quantization and SYZ mirror symmetry**<br>
+Coisotropic A-branes were introduced by Kapustin and Orlov to enlarge the Fukaya category of a symplectic manifold in a way that aligns with predictions from homological mirror symmetry. From a mathematical perspective, however, the categorical framework governing such branes remains largely undeveloped.
+In this talk, I focus on the semi-flat SYZ mirror symmetry setting and present a mathematical realization of the self-Hom spaces of semi-affine, space-filling coisotropic A-branes (based on joint work in progress with K. Chan, N. C. Leung, Q. Li, and Y.-H. Suen). Our construction yields a non-formal holomorphic deformation quantization of the underlying A-model manifold.
+
+<br/>
+
+This approach not only reflects ideas from the Gukov–Witten brane quantization proposal and the family Floer theory framework, but also leads to a mirror correspondence identifying these A-model morphism spaces with the corresponding B-model morphism spaces on the mirror manifold. Moreover, the resulting actions on Lagrangian A-branes supported on torus fibers, and on their mirror B-branes, are shown to be functorial.
+
+<br/>
+<br/>
 
 [Zhe Wang](https://ithems.riken.jp/en/members/zhe-wang), RIKEN <br> 
 _04/29 SIMIS room 710_
