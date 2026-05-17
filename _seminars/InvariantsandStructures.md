@@ -15,7 +15,7 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 
 
 [Satoshi Nawata](https://snawata.github.io/satoshi-nawata/), Fudan University <br> 
-_05/20, may be at 16:00, SIMIS room 710_ 
+_05/20, SIMIS room 710_ 
 
 **Quantum Toroidal Algebra of gl(1)​: Representations and Enumerative Geometry**<br>
 In this talk, I give a self-contained review of the quantum toroidal algebra of gl(1) and its connections to representation theory and enumerative geometry. We begin with the algebraic structure itself, discussing its relationships to deformed W-algebras, DAHA, and affine Yangians. We then turn to its representation theory, covering the vertical modules — including the vector, Fock, and MacMahon representations — as well as the horizontal modules. In the final part, we explain how these representations are connected to qq-characters and to equivariant DT/PT invariants, illustrating the power of the algebraic approach to enumerative geometry.
@@ -25,7 +25,7 @@ In this talk, I give a self-contained review of the quantum toroidal algebra of 
 
 
 [Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br> 
-_05/20, might be cancelled, SIMIS room 710_
+_postponed again, SIMIS room 710_
 
 **Differential graded categories of D-branes, virtual de Rham complexes and deformation quantisation**<br>
 Given a holomorphic symplectic manifold X, I will associate to X a virtual de Rham dg category and a dg category of canonical D-branes of type B wrapped on spin complex Lagrangians in X along with its deformation quantisation. For any suitable collection of complex Lagrangians, I will upgrade the deformation quantisation, with supports in the collection, to a formal deformation whose central fibre is the category of D-branes and whose generic fibre is the deformation quantisation. I will then show that the latter is quasi-isomorphic to the (base-change of) virtual de Rham category and explain the formality of the de Rham category, thus making the formal deformation “generically formal”. Time permitting, I will introduce the Kaledin class obstructing formality of a dg category and explain how the proper Calabi-Yau structure on the formal deformation leads to “generic formality => formality”, thus showing the formality of the dg category of D-branes.
