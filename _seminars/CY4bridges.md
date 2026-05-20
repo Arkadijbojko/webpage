@@ -33,7 +33,7 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 ## Organizers
 
 * [Arkadij Bojko](https://arkadijbojko.github.io/)
-* [Chris Brav](https://www.simis.cn/faculty/)
+* [Chris Brav](https://www.simis.cn/chris-brav/)
 * [Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/)
 * [Yehao Zhou](https://www.simis.cn/yehao-zhou/)
 
