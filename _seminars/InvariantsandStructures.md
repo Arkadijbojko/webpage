@@ -14,11 +14,13 @@ _Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br
 &nbsp;
 
 
-[Satoshi Nawata](https://snawata.github.io/satoshi-nawata/), Fudan University <br> 
-_05/20, SIMIS room 710_ 
+[Ionut Ciocan-Fontanine](https://www.math.sinica.edu.tw/members/a2b7f704-253d-40fc-ad6e-ed10a2ccd037?page_id=16), Academia Sinica <br> 
+_05/27, SIMIS room 710_ 
 
-**Quantum Toroidal Algebra of gl(1)​: Representations and Enumerative Geometry**<br>
-In this talk, I give a self-contained review of the quantum toroidal algebra of gl(1) and its connections to representation theory and enumerative geometry. We begin with the algebraic structure itself, discussing its relationships to deformed W-algebras, DAHA, and affine Yangians. We then turn to its representation theory, covering the vertical modules — including the vector, Fock, and MacMahon representations — as well as the horizontal modules. In the final part, we explain how these representations are connected to qq-characters and to equivariant DT/PT invariants, illustrating the power of the algebraic approach to enumerative geometry.
+**Integrality of coefficients of mirror maps** (after Jockers and Mayr)<br>
+ In a 2018 Physics paper, Jockers and Mayr argued that the “3-d, N=2 abelian Gauged Linear Sigma Model” leads, via the renormalization flow, to
+Givental’s permutation-equivariant quantum K-theory of a complete intersection in a toric variety. Among the consequences they explored was a new derivation of the integrality of the Taylor coefficients of the mirror map for Calabi-Yau complete intersections, which they worked out for the quintic threefold, reproving the result of Lian and Yau. They did this by leveraging the intrinsic integrality of the 3-d GLSM partition function. In this talk, I will explain how the theory of quasimaps to GIT quotients can be used to justify rigorously their argument (and potentially extend its applicability to the non-abelian case as well). This is joint work with Jorin Schug.
+
 
 <br/>
 <br/>
@@ -39,6 +41,15 @@ This story can be thought of as a B-side analogue of Ivan Smith’s conjecture o
 
 ## Past talks <br>
 &nbsp;
+
+[Satoshi Nawata](https://snawata.github.io/satoshi-nawata/), Fudan University <br> 
+_05/20, SIMIS room 710_ 
+
+**Quantum Toroidal Algebra of gl(1)​: Representations and Enumerative Geometry**<br>
+In this talk, I give a self-contained review of the quantum toroidal algebra of gl(1) and its connections to representation theory and enumerative geometry. We begin with the algebraic structure itself, discussing its relationships to deformed W-algebras, DAHA, and affine Yangians. We then turn to its representation theory, covering the vertical modules — including the vector, Fock, and MacMahon representations — as well as the horizontal modules. In the final part, we explain how these representations are connected to qq-characters and to equivariant DT/PT invariants, illustrating the power of the algebraic approach to enumerative geometry.
+
+<br/>
+<br/>
 
 [Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/), SIMIS <br> 
 _05/13, SIMIS room 710_
