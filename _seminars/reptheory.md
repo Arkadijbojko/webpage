@@ -8,9 +8,21 @@ category: Ongoing
 related_publications: false
 ---
 
-### Tuesday at 4:15 pm
+### Irregular schedule
 &nbsp;
 &nbsp;
+
+[Mikhail Bershtein](https://www.math.sissa.it/users/mikhail-bershtein), SISSA Trieste<br>
+_05/28 @ 14:00, SIMIS room TBA_
+
+**Cyclically shifted $U_q(\widehat{\mathfrak{\sl}}_N)$ algebra and cluster realizations**<br>
+Cyclically shifted $U_q(\widehat{\mathfrak{sl}}_N)$  algebras were introduced by Bourgine and Jeong in the context of gauge theories with surface defects. It turns out that they can also be used to study the standard, non-shifted algebras; in particular, they lead to explicit formulas for q-Heisenberg realizations, R-matrices, and quantum evolution operators. The main source of these formulas is a cluster realization of the algebra. This is based on joint work with Bourgine and Shiraishi.
+
+&nbsp;
+&nbsp;
+
+
+## Past talks
 
 [Victor Mishnyakov](https://itmp.msu.ru/en/institute/phd-students/mishnyakov-viktor), ITMP, Lomonosov Moscow State University <br>
 _03/17, SIMIS room 1410_
@@ -20,9 +32,6 @@ The ring of symmetric functions is known to play many important roles in represe
 
 &nbsp;
 &nbsp;
-
-
-## Past talks
 
 [Ian Marquette](https://scholars.latrobe.edu.au/imarquette), La Trobe University <br>
 _12/30, SIMIS room 1010_
