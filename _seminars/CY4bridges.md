@@ -45,7 +45,7 @@ The program consists of 14 talks and 4 discussion sessions led by the organizers
 
 ## Funding
 
-Participants who are not speaking are highly encouraged to join the discussions and develop new connections. We are also offering funding for travel and accommodation for participants. If you want to participate, please apply through [this form](). 
+Participants who are not speaking are highly encouraged to join the discussions and develop new connections. We are also offering funding for travel and accommodation for participants. If you want to participate, please apply through [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQ4o5kFURUVOOFhDVzg1V0U1MzUzNjlPQ0lVU1Y1WS4u). 
 
 
 ## Accommodation
