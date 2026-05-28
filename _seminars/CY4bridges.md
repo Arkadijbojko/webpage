@@ -41,7 +41,11 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 
 ## Program 
 
-The program consists of 14 talks and 4 discussion sessions led by the organizers. The full schedule will be provided closer to the event dates.
+The program consists of 14 talks and 4 discussion sessions led by the organizers.
+
+{% include figure.liquid loading="eager" path="assets/img/timetable.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+
+The detailed schedule will be provided closer to the event dates.
 
 ## Funding
 
