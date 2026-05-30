@@ -19,6 +19,7 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 
 ## Confirmed Speakers
 
+* [Konstantin Aleshkin](https://db.ipmu.jp/member/personal/5632en.html)
 * [Cyril Closset](https://www.birmingham.ac.uk/staff/profiles/maths/closset-cyril)
 * [Lucien Hennecart](https://hennlu.github.io/)
 * [Taro Kimura](https://kimura.pages.math.cnrs.fr/)
