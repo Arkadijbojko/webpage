@@ -7,6 +7,7 @@ nav: true
 nav_order: 7
 ---
 
+_I don't update this page regularly anymore. The only regular updates are slides from important talks._
 
 **Upcoming Talks and Travel**
 
@@ -51,6 +52,8 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
 
 **Past Talks:**
+
+Vertex algebras, automorphic forms and combinatorics, CIRM, June 2026. [slides](https://drive.google.com/file/d/1_X3Ud_dMpqBunAZZ02ytiRRcU4Od3OJ_/view?usp=sharing)
 
 Calabi-Yau four wall-crossing, Enumerative Geometry in East Asia 2025, IPMU Tokyo, October 2025. [slides](https://drive.google.com/file/d/1kWbvva2dCHABeA0CGstenNyTmIcEKdHh/view?usp=sharing)
 
