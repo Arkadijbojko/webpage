@@ -28,7 +28,8 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 * [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/)
 * [Nicolò Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
 * [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
-* [Zijun Zhou](https://scholar.google.com/citations?user=JErV5UsAAAAJ)
+* [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
+* [Marco Robalo](https://marco-robalo.perso.math.cnrs.fr/)
 * More to be confirmed...
 
 ## Organizers
