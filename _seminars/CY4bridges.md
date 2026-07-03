@@ -43,7 +43,7 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 * [Chris Brav](https://www.simis.cn/chris-brav/)&dagger;
 
 <div id="fn-dagger">
-  <sup>&dagger;</sup>  Supporting organizer. 
+  <sup>&dagger;</sup>  _Supporting organizer._ 
 </div>
 
 ***
