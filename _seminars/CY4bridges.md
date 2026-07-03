@@ -40,7 +40,7 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 * [Emile Bouaziz](https://sites.google.com/view/emile-bouaziz-math/works)
 * [Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/)
 * [Yehao Zhou](https://www.simis.cn/yehao-zhou/)
-* [Chris Brav](https://www.simis.cn/chris-brav/)&dagger;
+* [Chris Brav](https://www.simis.cn/chris-brav/)<sup>&dagger;</sup>
 
 <div id="fn-dagger">
   <sup>&dagger;</sup> Supporting organizer. 
