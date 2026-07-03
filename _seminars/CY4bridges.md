@@ -45,6 +45,7 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 <div id="fn-dagger">
   <sup>&dagger;</sup>  Supporting organizer. 
 </div>
+
 ***
 
 ## Program 
