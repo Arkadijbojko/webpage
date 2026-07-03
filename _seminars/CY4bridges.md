@@ -37,10 +37,14 @@ The goal of this workshop is to explore DT4 theory, inviting outside perspective
 ## Organizers
 
 * [Arkadij Bojko](https://arkadijbojko.github.io/)
-* [Chris Brav](https://www.simis.cn/chris-brav/)
+* [Emile Bouaziz](https://sites.google.com/view/emile-bouaziz-math/works)
 * [Mauricio Romo](https://www.simis.cn/mauricio-andres-romo-jorquera/)
 * [Yehao Zhou](https://www.simis.cn/yehao-zhou/)
+* [Chris Brav](https://www.simis.cn/chris-brav/)<sup id="fnref-dagger"><a href="#fn-dagger">&dagger;</a></sup>
 
+<div id="fn-dagger">
+  <sup>&dagger;</sup> _Supporting organizer._
+</div>
 ***
 
 ## Program 
