@@ -13,6 +13,8 @@ related_publications: false
 **Location:** 18F, [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)  
 **Poster:** Coming soon
 
+{% include figure.liquid loading="eager" path="assets/img/CY4bridge.jpg" title="" class="img-fluid rounded z-depth-1" %}
+
 ***
 
 The goal of this workshop is to explore DT4 theory, inviting outside perspectives and contributions. The program is built around active discussions aiming to develop new ideas, frameworks, and establish new applications.
