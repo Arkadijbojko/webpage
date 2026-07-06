@@ -11,7 +11,7 @@ related_publications: false
 
 **October 19 – 23, 2026**  
 **Location:** 18F, [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)  
-**Poster:** Coming soon
+**Poster:** [View here.](https://drive.google.com/file/d/1YEqzepX_MJc4Jepp4RvpKtc6dEXxQqbs/view?usp=sharing)
 
 {% include figure.liquid loading="eager" path="assets/img/CY4bridges.png" title="" class="img-fluid rounded z-depth-1" %}
 
