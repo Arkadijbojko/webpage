@@ -2,7 +2,7 @@
 layout: page
 title: Building Bridges to Calabi-Yau 4 Geometries
 description: A workshop on everything around DT4 theory, inviting new perspectives and contributions.
-img: assets/img/CY4bridge.jpg
+img: assets/img/CY4bridge.png
 importance: 2
 category: Ongoing
 related_publications: false
@@ -13,7 +13,7 @@ related_publications: false
 **Location:** 18F, [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)  
 **Poster:** Coming soon
 
-{% include figure.liquid loading="eager" path="assets/img/CY4bridge.jpg" title="" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/CY4bridge.png" title="" class="img-fluid rounded z-depth-1" %}
 
 ***
 
