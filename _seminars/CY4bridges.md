@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building Bridges to Calabi-Yau 4 Geometries
-description: A workshop on everything around DT4 theory, inviting new perspectives and contributions.
+description: A workshop on CY4 invariants and structures, inviting new perspectives and contributions.
 img: assets/img/CY4bridges.png
 importance: 2
 category: Ongoing
@@ -17,7 +17,7 @@ related_publications: false
 
 ***
 
-The goal of this workshop is to explore DT4 theory, inviting outside perspectives and contributions. The program is built around active discussions aiming to develop new ideas, frameworks, and establish new applications.
+The goal of this workshop is to explore Calabi-Yau 4 invariants and structures, inviting outside perspectives and contributions. The program is built around active discussions aiming to develop new ideas, frameworks, and establish new applications.
 
 ## Confirmed Speakers
 
