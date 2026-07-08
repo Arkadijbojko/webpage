@@ -17,7 +17,7 @@ related_publications: false
 
 ***
 
-The goal of this workshop is to explore Calabi-Yau 4 invariants and structures, inviting outside perspectives and contributions. The program is built around active discussions aiming to develop new ideas, frameworks, and establish new applications.
+The goal of this workshop is to explore Calabi–Yau 4 invariants and structures, inviting experts from neighboring fields to share their perspectives and to contribute new ideas. The program is built around active discussions aiming to develop new methods, frameworks, and establish new applications.
 
 ## Confirmed Speakers
 
