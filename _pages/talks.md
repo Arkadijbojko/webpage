@@ -11,9 +11,6 @@ _I don't update this page regularly anymore. The only regular updates are slides
 
 **Upcoming Talks and Travel**
 
-Workshop on Mirror Symmetry and Related Topics, Kyoto, December 2025.
-
-Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 
 <br/>
 <br/>
@@ -52,6 +49,8 @@ Vertex Algebras, Automorphic Forms and Combinatorics, CIRM, Luminy, June 2026.
 <br/>
 
 **Past Talks:**
+
+Workshop on Geometric Representation Theory, Amiens, June 2026. [slides](https://drive.google.com/file/d/1u4Q-5BMXMpuUCz4vylBnRx35s4doNE0o/view?usp=sharing)
 
 Vertex algebras, automorphic forms and combinatorics, CIRM, June 2026. [slides](https://drive.google.com/file/d/1_X3Ud_dMpqBunAZZ02ytiRRcU4Od3OJ_/view?usp=sharing)
 
