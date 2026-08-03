@@ -19,7 +19,7 @@ related_publications: false
 
 The goal of this workshop is to explore Calabi–Yau 4 invariants and structures, inviting experts from neighboring fields to share their perspectives and to contribute new ideas. The program is built around active discussions aiming to develop new methods, frameworks, and establish new applications.
 
-## Confirmed Speakers
+## Speakers
 
 * [Konstantin Aleshkin](https://db.ipmu.jp/member/personal/5632en.html)
 * [Sibasish Banerjee](https://scholar.google.com/citations?user=BrO_wRsAAAAJ&hl=en)
@@ -28,12 +28,13 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 * [Taro Kimura](https://kimura.pages.math.cnrs.fr/)
 * [Albrecht Klemm](http://www.th.physik.uni-bonn.de/people/aklemm/)
 * [Martijn Kool](https://www.uu.nl/staff/MKool1)
+* [Andrey Losev](https://scholar.google.com/citations?user=TTWhiToAAAAJ&hl=en)
 * [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/)
 * [Nicolò Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
 * [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
 * [Marco Robalo](https://marco-robalo.perso.math.cnrs.fr/)
 * [Zijun Zhou](https://scholar.google.com/citations?user=JErV5UsAAAAJ&hl=en)
-* More to be confirmed...
+* [Šarūnas Kaubrys](https://sarkbr.github.io/)
 
 ## Organizers
 
