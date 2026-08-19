@@ -25,6 +25,7 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 * [Sibasish Banerjee](https://scholar.google.com/citations?user=BrO_wRsAAAAJ&hl=en)
 * [Cyril Closset](https://www.birmingham.ac.uk/staff/profiles/maths/closset-cyril)
 * [Lucien Hennecart](https://hennlu.github.io/)
+* [Šarūnas Kaubrys](https://sarkbr.github.io/)
 * [Taro Kimura](https://kimura.pages.math.cnrs.fr/)
 * [Albrecht Klemm](http://www.th.physik.uni-bonn.de/people/aklemm/)
 * [Martijn Kool](https://www.uu.nl/staff/MKool1)
@@ -34,7 +35,6 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 * [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
 * [Marco Robalo](https://marco-robalo.perso.math.cnrs.fr/)
 * [Zijun Zhou](https://scholar.google.com/citations?user=JErV5UsAAAAJ&hl=en)
-* [Šarūnas Kaubrys](https://sarkbr.github.io/)
 
 ## Organizers
 
