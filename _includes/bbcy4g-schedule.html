@@ -87,6 +87,48 @@
     font-size: 16px;
     font-weight: bold;
   }
+
+  /* Fit the schedule to the page's content width. */
+  #bbcy4g-schedule table {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    table-layout: fixed;
+    font-size: 13px;
+  }
+
+  #bbcy4g-schedule .time-column { width: 14%; }
+  #bbcy4g-schedule .day-column { width: 17.2%; }
+
+  #bbcy4g-schedule th,
+  #bbcy4g-schedule td {
+    padding: 6px 4px;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  #bbcy4g-schedule .weekdays th:first-child,
+  #bbcy4g-schedule tbody th {
+    white-space: normal;
+  }
+
+  #bbcy4g-schedule .dates th {
+    padding: 5px 4px;
+    font-size: 12px;
+  }
+
+  #bbcy4g-schedule .weekdays th {
+    padding: 16px 4px;
+    font-size: 18px;
+  }
+
+  #bbcy4g-schedule .discussion-row td {
+    font-size: 12px;
+  }
+
+  #bbcy4g-schedule .discussion-row .free-afternoon {
+    font-size: 13px;
+  }
 </style>
 
 <div id="bbcy4g-schedule" role="region"
