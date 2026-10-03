@@ -63,14 +63,11 @@ The detailed schedule will be provided closer to the event dates.
 
 ## Funding
 
-Participants who are not speaking are highly encouraged to join the discussions and develop new connections. We are also offering funding for travel and accommodation for participants. If you want to participate, please apply through [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQ4o5kFURUVOOFhDVzg1V0U1MzUzNjlPQ0lVU1Y1WS4u). 
+Participants who are not speaking are highly encouraged to join the discussions and develop new connections. If you want to participate, please apply through [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQ4o5kFURUVOOFhDVzg1V0U1MzUzNjlPQ0lVU1Y1WS4u). 
 
 * **Registration Deadline:** October 9
-* **Funding Deadline:** August 31
+* **Funding Deadline:** August 31 **No longer accepting requests for funding**
 
 ## Accommodation
 
-The following hotels are expected for the workshop (subject to final confirmation):
-
-* **Speaker Hotel:** Atour Hotel Shanghai Wujiaochang Daxue Road (上海五角场大学路亚朵酒店)
-* **Participant Hotel:** CitiGO Hotel (Huan'ge), Guohang Road, Wujiaochang, Shanghai (上海五角场国航路CitiGO欢阁酒店)
+If your accommodations is covered by the workshop's budget, you have already received a confirmation of your hotel booking with the correct address. 
