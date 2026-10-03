@@ -70,4 +70,4 @@ Participants who are not speaking are highly encouraged to join the discussions 
 
 ## Accommodation
 
-If your accommodations is covered by the workshop's budget, you have already received a confirmation of your hotel booking with the correct address. 
+If your accommodation is covered by the workshop's budget, you have already received a confirmation of your hotel booking with the correct address. 
