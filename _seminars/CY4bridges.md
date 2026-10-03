@@ -52,7 +52,10 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 
 ## Program 
 
-The program consists of 14 talks and 4 discussion sessions led by the organizers.
+The program consists of 14 talks and 4 discussion sessions led by the organizers. <a href="{{ '/assets/files/abstracts.html' | relative_url }}"
+   target="_blank" rel="noopener">
+  See titles and abstracts.
+</a>
 
 {% include bbcy4g-schedule.html %}
 
