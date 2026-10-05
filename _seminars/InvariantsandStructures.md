@@ -16,7 +16,7 @@ _Coorganized with [Emile Bouaziz](https://www.simis.cn/emile-bouaziz-2/)_ <br>
 
 
 [Šarūnas Kaubrys](https://sarkbr.github.io/), Kavli IPMU <br> 
-_SIMIS room 1110_
+_10/15, SIMIS room 1110_
 
 **Deformed Drinfeld coproducts via Joyce vertex coalgebras**<br>
 Cohomological Hall algebras of quivers with potentials give a geometric way to realize quantum groups. In this talk, I will define a certain vertex coproduct called a Joyce vertex coalgebra on the Cohomological Hall algebras of a quiver with potential. This structure is compatible with the multiplication and upgrades the cohomological Hall algebra into a vertex bialgebra. I will then explain how to compare this structure to deformed Drinfeld coproducts on ADE Yangians. This is joint work with Shivang Jindal and Alexei Latyntsev.
