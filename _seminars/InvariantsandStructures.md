@@ -8,10 +8,28 @@ category: Ongoing
 related_publications: false
 ---
 
-_Coorganized with [Yang Zhou](https://scms.fudan.edu.cn/info/2675/4994.htm)_ <br>
-### Wednesdays at 2pm
+_Coorganized with [Emile Bouaziz](https://www.simis.cn/emile-bouaziz-2/)_ <br>
+### Thursdays at 2pm
 &nbsp;
 &nbsp;
+
+
+
+[Šarūnas Kaubrys](https://sarkbr.github.io/), Kavli IPMU <br> 
+_SIMIS room 1110_
+
+**Deformed Drinfeld coproducts via Joyce vertex coalgebras**<br>
+Cohomological Hall algebras of quivers with potentials give a geometric way to realize quantum groups. In this talk, I will define a certain vertex coproduct called a Joyce vertex coalgebra on the Cohomological Hall algebras of a quiver with potential. This structure is compatible with the multiplication and upgrades the cohomological Hall algebra into a vertex bialgebra. I will then explain how to compare this structure to deformed Drinfeld coproducts on ADE Yangians. This is joint work with Shivang Jindal and Alexei Latyntsev.
+
+
+<br/>
+<br/>
+
+
+
+## Past talks <br>
+&nbsp;
+
 
 
 [Ionut Ciocan-Fontanine](https://www.math.sinica.edu.tw/members/a2b7f704-253d-40fc-ad6e-ed10a2ccd037?page_id=16), Academia Sinica <br> 
@@ -24,23 +42,6 @@ Givental’s permutation-equivariant quantum K-theory of a complete intersection
 
 <br/>
 <br/>
-
-
-[Borislav Mladenov](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/pages/20), Academia Sinica <br> 
-_postponed again, SIMIS room 710_
-
-**Differential graded categories of D-branes, virtual de Rham complexes and deformation quantisation**<br>
-Given a holomorphic symplectic manifold X, I will associate to X a virtual de Rham dg category and a dg category of canonical D-branes of type B wrapped on spin complex Lagrangians in X along with its deformation quantisation. For any suitable collection of complex Lagrangians, I will upgrade the deformation quantisation, with supports in the collection, to a formal deformation whose central fibre is the category of D-branes and whose generic fibre is the deformation quantisation. I will then show that the latter is quasi-isomorphic to the (base-change of) virtual de Rham category and explain the formality of the de Rham category, thus making the formal deformation “generically formal”. Time permitting, I will introduce the Kaledin class obstructing formality of a dg category and explain how the proper Calabi-Yau structure on the formal deformation leads to “generic formality => formality”, thus showing the formality of the dg category of D-branes.
-This story can be thought of as a B-side analogue of Ivan Smith’s conjecture on the formality of the Solomon-Verbitsky Fukaya category under Kapustin's duality between type A and type B D-branes on X.
-
-
-<br/>
-<br/>
-
-
-
-## Past talks <br>
-&nbsp;
 
 [Satoshi Nawata](https://snawata.github.io/satoshi-nawata/), Fudan University <br> 
 _05/20, SIMIS room 710_ 
