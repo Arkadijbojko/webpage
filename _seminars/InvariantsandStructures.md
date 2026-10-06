@@ -25,6 +25,27 @@ Cohomological Hall algebras of quivers with potentials give a geometric way to r
 <br/>
 <br/>
 
+[Noah Arbesfeld](https://research-portal.uu.nl/en/persons/noah-arbesfeld/), Utrecht University <br>  
+_10/28, SIMIS room TBA_
+
+**Vafa-Witten invariants from framed sheaves**<br>
+Tanaka-Thomas’s algebro-geometric approach to Vafa-Witten
+theory defines invariants
+of projective surfaces using moduli spaces of stable Higgs pairs. In work with M. Kool and T. Laarakker, we express certain Vafa-Witten
+invariants in terms of the equivariant geometry of a  quiver variety,
+the moduli space of torsion-free framed sheaves on P^2. I’ll present wall-crossing results for this moduli space of framed
+sheaves, one due to Kuhn-Leigh-Tanaka and one new, and discuss their
+implications for Vafa-Witten invariants. One consequence is a formula
+for so-called "vertical" Vafa-Witten invariants in rank 2.
+
+
+<br/>
+<br/>
+
+
+
+ 
+
 
 
 ## Past talks <br>
