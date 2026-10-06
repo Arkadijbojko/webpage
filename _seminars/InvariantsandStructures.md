@@ -26,7 +26,7 @@ Cohomological Hall algebras of quivers with potentials give a geometric way to r
 <br/>
 
 [Noah Arbesfeld](https://research-portal.uu.nl/en/persons/noah-arbesfeld/), Utrecht University <br>  
-_10/28, SIMIS room TBA_
+_10/27, SIMIS room TBA_
 
 **Vafa-Witten invariants from framed sheaves**<br>
 Tanaka-Thomas’s algebro-geometric approach to Vafa-Witten
