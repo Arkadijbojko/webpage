@@ -33,7 +33,7 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 * [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/)
 * [Nicolò Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
 * [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
-* [Marco Robalo](https://marco-robalo.perso.math.cnrs.fr/)
+* [Adeel Khan](https://www.preschema.com/)
 * [Zijun Zhou](https://scholar.google.com/citations?user=JErV5UsAAAAJ&hl=en)
 
 ## Organizers
@@ -59,13 +59,13 @@ The program consists of 14 talks and 4 discussion sessions led by the organizers
 
 {% include bbcy4g-schedule.html %}
 
-The detailed schedule will be provided closer to the event dates.
 
 ## Funding
 
-Participants who are not speaking are highly encouraged to join the discussions and develop new connections. If you want to participate, please apply through [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAQ4o5kFURUVOOFhDVzg1V0U1MzUzNjlPQ0lVU1Y1WS4u). 
+Participants who are not speaking are highly encouraged to join the discussions and develop new connections. 
 
-* **Registration Deadline:** October 9
+
+* **Registration Deadline:** October 9 **No longer accepting applications**
 * **Funding Deadline:** August 31 **No longer accepting requests for funding**
 
 ## Accommodation
