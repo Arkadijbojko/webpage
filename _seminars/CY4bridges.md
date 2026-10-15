@@ -22,18 +22,18 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 ## Speakers
 
 * [Konstantin Aleshkin](https://db.ipmu.jp/member/personal/5632en.html)
-* [Ban Lin](https://inspirehep.net/authors/2727355)
 * [Cyril Closset](https://www.birmingham.ac.uk/staff/profiles/maths/closset-cyril)
 * [Lucien Hennecart](https://hennlu.github.io/)
 * [Šarūnas Kaubrys](https://sarkbr.github.io/)
+* [Adeel Khan](https://www.preschema.com/)
 * [Taro Kimura](https://kimura.pages.math.cnrs.fr/)
 * [Albrecht Klemm](http://www.th.physik.uni-bonn.de/people/aklemm/)
 * [Martijn Kool](https://www.uu.nl/staff/MKool1)
+* [Ban Lin](https://inspirehep.net/authors/2727355)
 * [Andrey Losev](https://scholar.google.com/citations?user=TTWhiToAAAAJ&hl=en)
 * [Hyeonjun Park](https://sites.google.com/view/hyeonjunpark/)
 * [Nicolò Piazzalunga](https://www.bimsa.cn/detail/npiazzalu.html)
 * [Jørgen Rennemo](https://sites.google.com/view/jvrennemo/home)
-* [Adeel Khan](https://www.preschema.com/)
 * [Zijun Zhou](https://scholar.google.com/citations?user=JErV5UsAAAAJ&hl=en)
 
 ## Organizers
