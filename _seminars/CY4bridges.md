@@ -55,12 +55,13 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 The program consists of 14 talks and 4 discussion sessions led by the organizers. <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
    target="_blank" rel="noopener">
   See titles and abstracts. 
-</a><\br>
+</a><br>
 
 **The discussion sessions are held in R0610 of the 6th floor.**
 
 {% include bbcy4g-schedule.html %}
 
+***
 
 ## Funding
 
