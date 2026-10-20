@@ -61,6 +61,11 @@ The program consists of 14 talks and 4 discussion sessions led by the organizers
 
 {% include bbcy4g-schedule.html %}
 
+<a href="{{ '/seminars/CY4bridges/excursion.html'  | relative_url }}"
+   target="_blank" rel="noopener">Click 
+  here
+</a> for more information about the excursion and the banquet.
+
 ***
 
 ## Funding
