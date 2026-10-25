@@ -17,7 +17,7 @@ _Coorganized with [Emile Bouaziz](https://www.simis.cn/emile-bouaziz-2/)_ <br>
 
 
 
-[Pim Spelier](https://sites.google.com/view/pim-spelier/home), Utrecht University <br>  
+[Pim Spelier](https://sites.google.com/view/pim-spelier/home), Utrecht University <br>
 _10/27, SIMIS room 1410_
 
 **Log Donaldson-Thomas invariants of log Calabi-Yau 4-folds**<br>
