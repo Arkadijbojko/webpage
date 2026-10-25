@@ -15,29 +15,13 @@ _Coorganized with [Emile Bouaziz](https://www.simis.cn/emile-bouaziz-2/)_ <br>
 
 
 
-[Šarūnas Kaubrys](https://sarkbr.github.io/), Kavli IPMU <br> 
-_10/15, SIMIS room 1110_
-
-**Deformed Drinfeld coproducts via Joyce vertex coalgebras**<br>
-Cohomological Hall algebras of quivers with potentials give a geometric way to realize quantum groups. In this talk, I will define a certain vertex coproduct called a Joyce vertex coalgebra on the Cohomological Hall algebras of a quiver with potential. This structure is compatible with the multiplication and upgrades the cohomological Hall algebra into a vertex bialgebra. I will then explain how to compare this structure to deformed Drinfeld coproducts on ADE Yangians. This is joint work with Shivang Jindal and Alexei Latyntsev.
 
 
-<br/>
-<br/>
+[Pim Spelier](https://sites.google.com/view/pim-spelier/home), Utrecht University <br>  
+_10/27, SIMIS room 1410_
 
-[Noah Arbesfeld](https://research-portal.uu.nl/en/persons/noah-arbesfeld/), Utrecht University <br>  
-_10/27, SIMIS room TBA_
-
-**Vafa-Witten invariants from framed sheaves**<br>
-Tanaka-Thomas’s algebro-geometric approach to Vafa-Witten
-theory defines invariants
-of projective surfaces using moduli spaces of stable Higgs pairs. In work with M. Kool and T. Laarakker, we express certain Vafa-Witten
-invariants in terms of the equivariant geometry of a  quiver variety,
-the moduli space of torsion-free framed sheaves on P^2. I’ll present wall-crossing results for this moduli space of framed
-sheaves, one due to Kuhn-Leigh-Tanaka and one new, and discuss their
-implications for Vafa-Witten invariants. One consequence is a formula
-for so-called "vertical" Vafa-Witten invariants in rank 2.
-
+**Log Donaldson-Thomas invariants of log Calabi-Yau 4-folds**<br>
+Donaldson-Thomas invariants of Calabi-Yau 4-folds count subschemes (up to dimension 2) using the (−2)-shifted symplectic structure on their moduli spaces. I will explain how to extend this theory to the logarithmic setting: to smooth log Calabi–Yau 4-folds and to smooth CY4s degenerating to a normal crossings fibre. Using log geometry and derived algebraic geometry, we construct a (−2)-shifted symplectic structure on derived log Hilbert schemes of points. This gives log DT4 invariants with tautological insertions that are invariant under deformation, including degeneration. We then prove a degeneration formula for points: the tautological invariants of a smooth Calabi-Yau 4-fold equal the product of the log invariants of the components of a degenerate fibre. I will give some examples of what the formula says, among others, for degenerations of abelian 4-folds. Finally, a virtual Lefschetz theorem for points (joint with Martijn Kool) proves a conjecture on log tautological point counts when the line bundle is very ample.
 
 <br/>
 <br/>
@@ -51,6 +35,16 @@ for so-called "vertical" Vafa-Witten invariants in rank 2.
 ## Past talks <br>
 &nbsp;
 
+
+[Šarūnas Kaubrys](https://sarkbr.github.io/), Kavli IPMU <br> 
+_10/15, SIMIS room 1110_
+
+**Deformed Drinfeld coproducts via Joyce vertex coalgebras**<br>
+Cohomological Hall algebras of quivers with potentials give a geometric way to realize quantum groups. In this talk, I will define a certain vertex coproduct called a Joyce vertex coalgebra on the Cohomological Hall algebras of a quiver with potential. This structure is compatible with the multiplication and upgrades the cohomological Hall algebra into a vertex bialgebra. I will then explain how to compare this structure to deformed Drinfeld coproducts on ADE Yangians. This is joint work with Shivang Jindal and Alexei Latyntsev.
+
+
+<br/>
+<br/>
 
 
 [Ionut Ciocan-Fontanine](https://www.math.sinica.edu.tw/members/a2b7f704-253d-40fc-ad6e-ed10a2ccd037?page_id=16), Academia Sinica <br> 
