@@ -8,8 +8,7 @@ category: Ongoing
 related_publications: false
 ---
 
-## Thank you all for attending the workshop! <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
-   target="_blank" rel="noopener">The recordings have now been added.</a>
+## Thank you all for attending the workshop! <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}" target="_blank" rel="noopener">The recordings have now been added.</a>
 
    
 **October 19 – 23, 2026**  
