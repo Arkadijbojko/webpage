@@ -8,6 +8,8 @@ category: Ongoing
 related_publications: false
 ---
 
+**Thank you all for attending the workshop! <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
+   target="_blank" rel="noopener">The recordings have now been added.</a>**
 
 **October 19 – 23, 2026**  
 **Location:** 18F, [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)  
@@ -54,7 +56,7 @@ The goal of this workshop is to explore Calabi–Yau 4 invariants and structures
 
 The program consists of 14 talks and 4 discussion sessions led by the organizers. <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
    target="_blank" rel="noopener">
-  See titles and abstracts. **The recordings have now been added.**
+  See titles and abstracts. 
 </a><br>
 
 **The discussion sessions are held in R0610 of the 6th floor.**
