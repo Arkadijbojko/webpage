@@ -8,9 +8,10 @@ category: Ongoing
 related_publications: false
 ---
 
-**Thank you all for attending the workshop! <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
-   target="_blank" rel="noopener">The recordings have now been added.</a>**
+## Thank you all for attending the workshop! <a href="{{ '/seminars/CY4bridges/abstracts.html'  | relative_url }}"
+   target="_blank" rel="noopener">The recordings have now been added.</a>
 
+   
 **October 19 – 23, 2026**  
 **Location:** 18F, [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/)  
 **Poster:** [View here.](https://drive.google.com/file/d/1YEqzepX_MJc4Jepp4RvpKtc6dEXxQqbs/view?usp=sharing)
