@@ -14,11 +14,21 @@ _Coorganized with [Emile Bouaziz](https://www.simis.cn/emile-bouaziz-2/)_ <br>
 &nbsp;
 
 
+[Maxim Gritskov](https://scholar.google.com/citations?user=-NvlulwAAAAJ&hl=ru), SIMIS <br>
+_11/19, SIMIS room 1110_
+
+**Perturbative conformal anomaly via Virasoro cohomology**<br>
+A local quantum field theory comprises a vast collection of mutually consistent data. Yet representation theory alone can detect obstructions to preserving symmetries under deformation. In a conformal field theory, this gives a cohomological interpretation of the beta function as an obstruction to deforming the action of the conformal algebra on the space of states.<br/>
+
+In this talk, I will make this connection explicit for current–current deformations of two-dimensional CFTs. These infinitesimal deformations define classes in the first Chevalley–Eilenberg cohomology of (\mathrm{Vir}\oplus\mathrm{Vir}) with coefficients in the endomorphisms of the state space. The quadratic Massey operation sends each class to its second-order obstruction in (H^2). I will show that this obstruction has an explicit cocycle representative whose coefficient tensor is the quadratic term of the beta function given by Cardy's formula. This talk is based on joint work with Andrey Losev and Oleksandr Gamayun (arXiv:2606.28975).
+
+<br/>
+<br/>
 
 
 
 [Pim Spelier](https://sites.google.com/view/pim-spelier/home), Utrecht University <br>
-_10/27, SIMIS room 1410_
+_postponed_
 
 **Log Donaldson-Thomas invariants of log Calabi-Yau 4-folds**<br>
 Donaldson-Thomas invariants of Calabi-Yau 4-folds count subschemes (up to dimension 2) using the (−2)-shifted symplectic structure on their moduli spaces. I will explain how to extend this theory to the logarithmic setting: to smooth log Calabi–Yau 4-folds and to smooth CY4s degenerating to a normal crossings fibre. Using log geometry and derived algebraic geometry, we construct a (−2)-shifted symplectic structure on derived log Hilbert schemes of points. This gives log DT4 invariants with tautological insertions that are invariant under deformation, including degeneration. We then prove a degeneration formula for points: the tautological invariants of a smooth Calabi-Yau 4-fold equal the product of the log invariants of the components of a degenerate fibre. I will give some examples of what the formula says, among others, for degenerations of abelian 4-folds. Finally, a virtual Lefschetz theorem for points (joint with Martijn Kool) proves a conjecture on log tautological point counts when the line bundle is very ample.
